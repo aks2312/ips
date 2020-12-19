@@ -1,700 +1,156 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET | TEN 3" tvg-logo="https://i.imgur.com/xDh1cEQ.png" group-title="CRICKET",CRICKET | TEN 3
-http://p5.giffy.be:8080/Testing1/Testing1/20725
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET | TEN 2" tvg-logo="https://i.imgur.com/4WEYH1d.png" group-title="CRICKET",CRICKET | TEN 2
-http://p5.giffy.be:8080/Testing1/Testing1/20726
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET | TEN 1" tvg-logo="https://i.imgur.com/4V4TxCV.png" group-title="CRICKET",CRICKET | TEN 1
-http://p5.giffy.be:8080/Testing1/Testing1/20727
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET | SONY ESPN" tvg-logo="https://i.imgur.com/ZenAMWb.png" group-title="CRICKET",CRICKET | SONY ESPN
-http://p5.giffy.be:8080/Testing1/Testing1/20728
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET | SONY SIX" tvg-logo="https://i.imgur.com/pblgudc.png" group-title="CRICKET",CRICKET | SONY SIX
-http://p5.giffy.be:8080/Testing1/Testing1/20729
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET | STAR SPORTS 1" tvg-logo="https://i.imgur.com/8nzfP7j.png" group-title="CRICKET",CRICKET | STAR SPORTS 1
-http://p5.giffy.be:8080/Testing1/Testing1/20730
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET | STAR SPORTS 2" tvg-logo="https://i.imgur.com/Zn2IGBl.png" group-title="CRICKET",CRICKET | STAR SPORTS 2
-http://p5.giffy.be:8080/Testing1/Testing1/20731
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET | STAR SPORTS HINDI 1" tvg-logo="https://i.imgur.com/qBQnqJX.png" group-title="CRICKET",CRICKET | STAR SPORTS HINDI 1
-http://p5.giffy.be:8080/Testing1/Testing1/20732
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET | STAR SPORTS SELECT 1" tvg-logo="https://i.imgur.com/hB9Aiv6.png" group-title="CRICKET",CRICKET | STAR SPORTS SELECT 1
-http://p5.giffy.be:8080/Testing1/Testing1/20733
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET | STAR SPORTS SELECT 2" tvg-logo="https://i.imgur.com/k2NvkUb.png" group-title="CRICKET",CRICKET | STAR SPORTS SELECT 2
-http://p5.giffy.be:8080/Testing1/Testing1/20734
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET | PTV SPORTS" tvg-logo="https://i.imgur.com/dEMRv3Z.jpg" group-title="CRICKET",CRICKET | PTV SPORTS
-http://p5.giffy.be:8080/Testing1/Testing1/20735
-#EXTINF:-1 tvg-id="geotv.uk" tvg-name="CRICKET | GEO SUPER" tvg-logo="https://i.imgur.com/8x6Ea6C.jpg" group-title="CRICKET",CRICKET | GEO SUPER
-http://p5.giffy.be:8080/Testing1/Testing1/20736
+#EXTM3U 
+#EXTINF:-1,STAR SPORTS HINDI 
+https://botallen.live/t/24/master.m3u8?signature=225d8d5cbec5751003be33fcd1d8eb4fb147c6ca&unique=d2044828ae86b7dcc388bf4b21325485
 
-#EXTINF:-1 tvg-id="andtv.in" tvg-name="HINDI | AND TV" tvg-logo="https://i.imgur.com/cFCCGmG.png" group-title="HINDI",HINDI | AND TV
-http://p5.giffy.be:8080/Testing1/Testing1/21037
-#EXTINF:-1 tvg-id="zeetv.in" tvg-name="HINDI | ZEE TV." tvg-logo="https://i.imgur.com/SUJRI9K.png" group-title="HINDI",HINDI | ZEE TV.
-http://p5.giffy.be:8080/Testing1/Testing1/21038
-#EXTINF:-1 tvg-id="colorscineplex.in" tvg-name="HINDI | CINEPLEX" tvg-logo="https://i.imgur.com/oit120i.png" group-title="HINDI",HINDI | CINEPLEX
-http://p5.giffy.be:8080/Testing1/Testing1/21039
-#EXTINF:-1 tvg-id="starplus.in" tvg-name="HINDI | STARPLUS" tvg-logo="https://i.imgur.com/K2lCazV.png" group-title="HINDI",HINDI | STARPLUS
-http://p5.giffy.be:8080/Testing1/Testing1/21040
-#EXTINF:-1 tvg-id="andpictures.in" tvg-name="HINDI | AND PICTURES" tvg-logo="https://i.imgur.com/oXvXwLT.png" group-title="HINDI",HINDI | AND PICTURES
-http://p5.giffy.be:8080/Testing1/Testing1/21041
-#EXTINF:-1 tvg-id="starbharat.in" tvg-name="HINDI | STAR BHARAT" tvg-logo="https://i.imgur.com/chi0NzE.png" group-title="HINDI",HINDI | STAR BHARAT
-http://p5.giffy.be:8080/Testing1/Testing1/21042
-#EXTINF:-1 tvg-id="sonysab.in" tvg-name="HINDI | SONY SAB" tvg-logo="https://i.imgur.com/f22t6Xj.png" group-title="HINDI",HINDI | SONY SAB
-http://p5.giffy.be:8080/Testing1/Testing1/21043
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | D2HMOVIES" tvg-logo="https://i.imgur.com/NSrrC84.png" group-title="HINDI",HINDI | D2HMOVIES
-http://p5.giffy.be:8080/Testing1/Testing1/21044
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | D2HCINEMA" tvg-logo="https://i.imgur.com/8Vdi9Vq.png" group-title="HINDI",HINDI | D2HCINEMA
-http://p5.giffy.be:8080/Testing1/Testing1/21045
-#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="HINDI | ZEE CINEMA" tvg-logo="https://i.imgur.com/ErrHc07.png" group-title="HINDI",HINDI | ZEE CINEMA
-http://p5.giffy.be:8080/Testing1/Testing1/21046
-#EXTINF:-1 tvg-id="travelxp.in" tvg-name="HINDI | TRAVEL XP" tvg-logo="https://i.imgur.com/AWCHh5N.png" group-title="HINDI",HINDI | TRAVEL XP
-http://p5.giffy.be:8080/Testing1/Testing1/21047
-#EXTINF:-1 tvg-id="historytv18.in" tvg-name="HINDI | HISTORYTV18" tvg-logo="https://i.imgur.com/jqIrLuE.png" group-title="HINDI",HINDI | HISTORYTV18
-http://p5.giffy.be:8080/Testing1/Testing1/21048
-#EXTINF:-1 tvg-id="tataskyfitness.in" tvg-name="HINDI | Channel9" tvg-logo="https://i.imgur.com/nFmZ7sQ.png" group-title="HINDI",HINDI | Channel9
-http://p5.giffy.be:8080/Testing1/Testing1/21049
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | CLASSIC CIENMA" tvg-logo="https://i.imgur.com/ER2Tv1Z.png" group-title="HINDI",HINDI | CLASSIC CIENMA
-http://p5.giffy.be:8080/Testing1/Testing1/21050
-#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="HINDI | CARTOON NETWORK" tvg-logo="https://i.imgur.com/ArfbBSm.png" group-title="HINDI",HINDI | CARTOON NETWORK
-http://p5.giffy.be:8080/Testing1/Testing1/21051
-#EXTINF:-1 tvg-id="mtv.in" tvg-name="HINDI | MTV" tvg-logo="https://i.imgur.com/dhDMXsH.png" group-title="HINDI",HINDI | MTV
-http://p5.giffy.be:8080/Testing1/Testing1/21052
-#EXTINF:-1 tvg-id="mtvbeats.in" tvg-name="HINDI | MTV BEATS" tvg-logo="https://i.imgur.com/Gabn2hL.png" group-title="HINDI",HINDI | MTV BEATS
-http://p5.giffy.be:8080/Testing1/Testing1/21053
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="HINDI | SONY TV" tvg-logo="https://i.imgur.com/C9KwNds.png" group-title="HINDI",HINDI | SONY TV
-http://p5.giffy.be:8080/Testing1/Testing1/21054
-#EXTINF:-1 tvg-id="stargoldselect.in" tvg-name="HINDI | STARGOLD SELECT" tvg-logo="https://i.imgur.com/cJHVJaz.png" group-title="HINDI",HINDI | STARGOLD SELECT
-http://p5.giffy.be:8080/Testing1/Testing1/21055
-#EXTINF:-1 tvg-id="colorshd.in" tvg-name="HINDI | COLORS TV" tvg-logo="https://i.imgur.com/wJ04enf.png" group-title="HINDI",HINDI | COLORS TV
-http://p5.giffy.be:8080/Testing1/Testing1/21056
-#EXTINF:-1 tvg-id="epic.in" tvg-name="HINDI | EPIC" tvg-logo="https://i.imgur.com/jNB9zjk.png" group-title="HINDI",HINDI | EPIC
-http://p5.giffy.be:8080/Testing1/Testing1/21057
-#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="HINDI | STAR GOLD" tvg-logo="https://i.imgur.com/xgOzQvD.png" group-title="HINDI",HINDI | STAR GOLD
-http://p5.giffy.be:8080/Testing1/Testing1/21058
-#EXTINF:-1 tvg-id="utvhd.in" tvg-name="HINDI | UTV" tvg-logo="https://i.imgur.com/pe2Zjsw.png" group-title="HINDI",HINDI | UTV
-http://p5.giffy.be:8080/Testing1/Testing1/21059
-#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="HINDI | NATGEO WILD" tvg-logo="https://i.imgur.com/G6uI3uV.png" group-title="HINDI",HINDI | NATGEO WILD
-http://p5.giffy.be:8080/Testing1/Testing1/21060
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="HINDI | NATGEO CH" tvg-logo="https://i.imgur.com/LgS0WU9.png" group-title="HINDI",HINDI | NATGEO CH
-http://p5.giffy.be:8080/Testing1/Testing1/21061
-#EXTINF:-1 tvg-id="foxlife.in" tvg-name="HINDI | FOX LIFE" tvg-logo="https://i.imgur.com/MK5TwJc.png" group-title="HINDI",HINDI | FOX LIFE
-http://p5.giffy.be:8080/Testing1/Testing1/21062
-#EXTINF:-1 tvg-id="sonymax.in" tvg-name="HINDI | MAX" tvg-logo="https://i.imgur.com/hpbWTJN.png" group-title="HINDI",HINDI | MAX
-http://p5.giffy.be:8080/Testing1/Testing1/21063
-#EXTINF:-1 tvg-id="sonybbcearth.in" tvg-name="HINDI | BBC EARTH" tvg-logo="https://i.imgur.com/DRTrs42.png" group-title="HINDI",HINDI | BBC EARTH
-http://p5.giffy.be:8080/Testing1/Testing1/21064
-#EXTINF:-1 tvg-id="ddnews.in" tvg-name="HINDI | DD NEWS" tvg-logo="https://i.imgur.com/4j0AqEw.png" group-title="HINDI",HINDI | DD NEWS
-http://p5.giffy.be:8080/Testing1/Testing1/21065
-#EXTINF:-1 tvg-id="ddnational.in" tvg-name="HINDI | DD NATIONAL" tvg-logo="https://i.imgur.com/W0AZp1c.png" group-title="HINDI",HINDI | DD NATIONAL
-http://p5.giffy.be:8080/Testing1/Testing1/21066
-#EXTINF:-1 tvg-id="discovery.in" tvg-name="HINDI | DISCOVERY" tvg-logo="https://i.imgur.com/0qqGFwU.png" group-title="HINDI",HINDI | DISCOVERY
-http://p5.giffy.be:8080/Testing1/Testing1/21067
-#EXTINF:-1 tvg-id="animalplanet.in" tvg-name="HINDI | ANIMAL PLANET" tvg-logo="https://i.imgur.com/jXm62lQ.png" group-title="HINDI",HINDI | ANIMAL PLANET
-http://p5.giffy.be:8080/Testing1/Testing1/21068
-#EXTINF:-1 tvg-id="zeetv.in" tvg-name="HINDI | ZEE TV" tvg-logo="https://i.imgur.com/7cOtG0W.png" group-title="HINDI",HINDI | ZEE TV
-http://p5.giffy.be:8080/Testing1/Testing1/21069
-#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="HINDI | ZEE CINEMA" tvg-logo="https://i.imgur.com/S78eJu0.png" group-title="HINDI",HINDI | ZEE CINEMA
-http://p5.giffy.be:8080/Testing1/Testing1/21070
-#EXTINF:-1 tvg-id="andtv.in" tvg-name="HINDI | AND TV" tvg-logo="" group-title="HINDI",HINDI | AND TV
-http://p5.giffy.be:8080/Testing1/Testing1/21071
-#EXTINF:-1 tvg-id="andpictures.in" tvg-name="HINDI | AND PICTURES" tvg-logo="https://i.imgur.com/qBxbR9U.png" group-title="HINDI",HINDI | AND PICTURES
-http://p5.giffy.be:8080/Testing1/Testing1/21072
-#EXTINF:-1 tvg-id="mtvbeats.in" tvg-name="HINDI | MTV BEATS" tvg-logo="https://i.imgur.com/oGLBFMo.png" group-title="HINDI",HINDI | MTV BEATS
-http://p5.giffy.be:8080/Testing1/Testing1/21073
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="HINDI | NATGEO HINDI" tvg-logo="https://i.imgur.com/L2Z8QEQ.png" group-title="HINDI",HINDI | NATGEO HINDI
-http://p5.giffy.be:8080/Testing1/Testing1/21074
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | CINEPLEX" tvg-logo="https://i.imgur.com/1ERqAgv.png" group-title="HINDI",HINDI | CINEPLEX
-http://p5.giffy.be:8080/Testing1/Testing1/21075
-#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="HINDI | CARTOONNETWORK HINDI" tvg-logo="https://i.imgur.com/Il3vOb5.png" group-title="HINDI",HINDI | CARTOONNETWORK HINDI
-http://p5.giffy.be:8080/Testing1/Testing1/21076
-#EXTINF:-1 tvg-id="shubhtv.in" tvg-name="HINDI | SHUBH SANDESHTV" tvg-logo="https://i.imgur.com/D9EbQre.png" group-title="HINDI",HINDI | SHUBH SANDESHTV
-http://p5.giffy.be:8080/Testing1/Testing1/21077
-#EXTINF:-1 tvg-id="zeebiharjharkhand.in" tvg-name="HINDI | ZEEBIHARJHARKHAND" tvg-logo="https://i.imgur.com/jNB9zjk.png" group-title="HINDI",HINDI | ZEEBIHARJHARKHAND
-http://p5.giffy.be:8080/Testing1/Testing1/21078
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | SADH NACH" tvg-logo="https://i.imgur.com/pPJVhUc.png" group-title="HINDI",HINDI | SADH NACH
-http://p5.giffy.be:8080/Testing1/Testing1/21079
-#EXTINF:-1 tvg-id="shubhtv.in" tvg-name="HINDI | SHUBH TV" tvg-logo="https://i.imgur.com/Q32swkr.png" group-title="HINDI",HINDI | SHUBH TV
-http://p5.giffy.be:8080/Testing1/Testing1/21080
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | ABZY MOVIES" tvg-logo="https://i.imgur.com/WKeeQxb.png" group-title="HINDI",HINDI | ABZY MOVIES
-http://p5.giffy.be:8080/Testing1/Testing1/21081
-#EXTINF:-1 tvg-id="shubhtv.in" tvg-name="HINDI | SHUBH CINEMA" tvg-logo="https://i.imgur.com/YQVK1WE.png" group-title="HINDI",HINDI | SHUBH CINEMA
-http://p5.giffy.be:8080/Testing1/Testing1/21082
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | ABZY COOL" tvg-logo="https://i.imgur.com/Inkc5xQ.png" group-title="HINDI",HINDI | ABZY COOL
-http://p5.giffy.be:8080/Testing1/Testing1/21083
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | ABZY DHAKAD" tvg-logo="https://i.imgur.com/WqbjFXW.png" group-title="HINDI",HINDI | ABZY DHAKAD
-http://p5.giffy.be:8080/Testing1/Testing1/21084
-#EXTINF:-1 tvg-id="newsnation.in" tvg-name="HINDI | NEWS NATION" tvg-logo="https://i.imgur.com/NbF6chg.png" group-title="HINDI",HINDI | NEWS NATION
-http://p5.giffy.be:8080/Testing1/Testing1/21085
-#EXTINF:-1 tvg-id="newsstatemadhyapradeshchhattisgarh.in" tvg-name="HINDI | NEWSSTATEMPCHG" tvg-logo="https://i.imgur.com/6z3Mlwt.png" group-title="HINDI",HINDI | NEWSSTATEMPCHG
-http://p5.giffy.be:8080/Testing1/Testing1/21086
-#EXTINF:-1 tvg-id="newsstateupuk.in" tvg-name="HINDI | NEWS STATEUP UK" tvg-logo="https://i.imgur.com/EcIPgZT.png" group-title="HINDI",HINDI | NEWS STATEUP UK
-http://p5.giffy.be:8080/Testing1/Testing1/21087
-#EXTINF:-1 tvg-id="aasthabhajan.in" tvg-name="HINDI | AASTHA BHAJAN" tvg-logo="https://i.imgur.com/gZKFxjG.png" group-title="HINDI",HINDI | AASTHA BHAJAN
-http://p5.giffy.be:8080/Testing1/Testing1/21088
-#EXTINF:-1 tvg-id="vedic.in" tvg-name="HINDI | VEDIC" tvg-logo="https://i.imgur.com/5QfeHTg.png" group-title="HINDI",HINDI | VEDIC
-http://p5.giffy.be:8080/Testing1/Testing1/21089
-#EXTINF:-1 tvg-id="sanskartv.in" tvg-name="HINDI | SANSKAR" tvg-logo="https://i.imgur.com/mFBrn6V.png" group-title="HINDI",HINDI | SANSKAR
-http://p5.giffy.be:8080/Testing1/Testing1/21090
-#EXTINF:-1 tvg-id="satsang.in" tvg-name="HINDI | SATSANG" tvg-logo="https://i.imgur.com/YkzhVxR.png" group-title="HINDI",HINDI | SATSANG
-http://p5.giffy.be:8080/Testing1/Testing1/21091
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | 4TVNEWS" tvg-logo="https://i.imgur.com/5wh4JX8.png" group-title="HINDI",HINDI | 4TVNEWS
-http://p5.giffy.be:8080/Testing1/Testing1/21092
-#EXTINF:-1 tvg-id="newsworldindia.in" tvg-name="HINDI | NEWSWORLD INDIA" tvg-logo="https://i.imgur.com/1oczME9.png" group-title="HINDI",HINDI | NEWSWORLD INDIA
-http://p5.giffy.be:8080/Testing1/Testing1/21093
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | NT3" tvg-logo="https://i.imgur.com/z3AzwPX.png" group-title="HINDI",HINDI | NT3
-http://p5.giffy.be:8080/Testing1/Testing1/21094
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | R9TV" tvg-logo="https://i.imgur.com/HmRujp7.png" group-title="HINDI",HINDI | R9TV
-http://p5.giffy.be:8080/Testing1/Testing1/21095
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | AHSAS TV" tvg-logo="https://i.imgur.com/MN8KGqA.png" group-title="HINDI",HINDI | AHSAS TV
-http://p5.giffy.be:8080/Testing1/Testing1/21096
-#EXTINF:-1 tvg-id="jaiparas.in" tvg-name="HINDI | JAIPARAS TV" tvg-logo="https://i.imgur.com/3gwjnlA.png" group-title="HINDI",HINDI | JAIPARAS TV
-http://p5.giffy.be:8080/Testing1/Testing1/21097
-#EXTINF:-1 tvg-id="sarthitv.in" tvg-name="HINDI | SARATHI" tvg-logo="https://i.imgur.com/aoWXDwn.png" group-title="HINDI",HINDI | SARATHI
-http://p5.giffy.be:8080/Testing1/Testing1/21098
-#EXTINF:-1 tvg-id="totaltv.in" tvg-name="HINDI | TOTAL HARYANA" tvg-logo="https://i.imgur.com/PlM0XWV.png" group-title="HINDI",HINDI | TOTAL HARYANA
-http://p5.giffy.be:8080/Testing1/Testing1/21099
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | SHAANDAAR CINEMA" tvg-logo="https://i.imgur.com/OKqabzT.png" group-title="HINDI",HINDI | SHAANDAAR CINEMA
-http://p5.giffy.be:8080/Testing1/Testing1/21100
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | HBN" tvg-logo="https://i.imgur.com/Lnu0kdK.png" group-title="HINDI",HINDI | HBN
-http://p5.giffy.be:8080/Testing1/Testing1/21101
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | INDIAWATCH" tvg-logo="https://i.imgur.com/mYojUDS.png" group-title="HINDI",HINDI | INDIAWATCH
-http://p5.giffy.be:8080/Testing1/Testing1/21102
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | FMTVNEWS" tvg-logo="https://i.imgur.com/9smFkfP.png" group-title="HINDI",HINDI | FMTVNEWS
-http://p5.giffy.be:8080/Testing1/Testing1/21103
-#EXTINF:-1 tvg-id="prarthanatv.in" tvg-name="HINDI | PRARTHANABHAWANTV" tvg-logo="https://i.imgur.com/4haHpYa.png" group-title="HINDI",HINDI | PRARTHANABHAWANTV
-http://p5.giffy.be:8080/Testing1/Testing1/21104
-#EXTINF:-1 tvg-id="aradanatv.in" tvg-name="HINDI | ARADANATV" tvg-logo="https://i.imgur.com/FXrvIKn.png" group-title="HINDI",HINDI | ARADANATV
-http://p5.giffy.be:8080/Testing1/Testing1/21105
-#EXTINF:-1 tvg-id="indianews.in" tvg-name="HINDI | NEWSINDIA24X7" tvg-logo="https://i.imgur.com/nV8pDuw.png" group-title="HINDI",HINDI | NEWSINDIA24X7
-http://p5.giffy.be:8080/Testing1/Testing1/21106
-#EXTINF:-1 tvg-id="news11.in" tvg-name="HINDI | NEWS11BHARAT" tvg-logo="https://i.imgur.com/tFgp5Nu.png" group-title="HINDI",HINDI | NEWS11BHARAT
-http://p5.giffy.be:8080/Testing1/Testing1/21107
-#EXTINF:-1 tvg-id="zeempcg.in" tvg-name="HINDI | ZEEMPCHHATTISGA" tvg-logo="https://i.imgur.com/8uqCjwA.png" group-title="HINDI",HINDI | ZEEMPCHHATTISGA
-http://p5.giffy.be:8080/Testing1/Testing1/21108
-#EXTINF:-1 tvg-id="zeenews.in" tvg-name="HINDI | ZEENEWS" tvg-logo="https://i.imgur.com/NbdlWsB.png" group-title="HINDI",HINDI | ZEENEWS
-http://p5.giffy.be:8080/Testing1/Testing1/21109
-#EXTINF:-1 tvg-id="zetcbollywood.in" tvg-name="HINDI | ETC" tvg-logo="https://i.imgur.com/VbRD5x6.png" group-title="HINDI",HINDI | ETC
-http://p5.giffy.be:8080/Testing1/Testing1/21110
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | ZEE RAJASTAN NEWS" tvg-logo="https://i.imgur.com/R3Ua6ym.png" group-title="HINDI",HINDI | ZEE RAJASTAN NEWS
-http://p5.giffy.be:8080/Testing1/Testing1/21111
-#EXTINF:-1 tvg-id="abpnews.in" tvg-name="HINDI | ABPNEWS" tvg-logo="https://i.imgur.com/JltqbcH.png" group-title="HINDI",HINDI | ABPNEWS
-http://p5.giffy.be:8080/Testing1/Testing1/21112
-#EXTINF:-1 tvg-id="saharaone.in" tvg-name="HINDI | SAHARAONE" tvg-logo="https://i.imgur.com/AyEq74N.png" group-title="HINDI",HINDI | SAHARAONE
-http://p5.giffy.be:8080/Testing1/Testing1/21113
-#EXTINF:-1 tvg-id="zing.in" tvg-name="HINDI | ZING" tvg-logo="https://i.imgur.com/ycESuqS.png" group-title="HINDI",HINDI | ZING
-http://p5.giffy.be:8080/Testing1/Testing1/21114
-#EXTINF:-1 tvg-id="tv9bharatvarsh.in" tvg-name="HINDI | TV9BHARATVARSH" tvg-logo="https://i.imgur.com/t6atfK6.png" group-title="HINDI",HINDI | TV9BHARATVARSH
-http://p5.giffy.be:8080/Testing1/Testing1/21115
-#EXTINF:-1 tvg-id="wowcinema.in" tvg-name="HINDI | WOW CINEMA ONE" tvg-logo="https://i.imgur.com/5iIUouK.png" group-title="HINDI",HINDI | WOW CINEMA ONE
-http://p5.giffy.be:8080/Testing1/Testing1/21116
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | SARVDHARM" tvg-logo="https://i.imgur.com/4MMJsfN.png" group-title="HINDI",HINDI | SARVDHARM
-http://p5.giffy.be:8080/Testing1/Testing1/21117
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | VAA MOVIES" tvg-logo="https://i.imgur.com/mCY1Gcl.png" group-title="HINDI",HINDI | VAA MOVIES
-http://p5.giffy.be:8080/Testing1/Testing1/21118
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | ADHYATAM" tvg-logo="https://i.imgur.com/97zllzr.png" group-title="HINDI",HINDI | ADHYATAM
-http://p5.giffy.be:8080/Testing1/Testing1/21119
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | TRUE SPORTS" tvg-logo="https://i.imgur.com/HtgjDR3.png" group-title="HINDI",HINDI | TRUE SPORTS
-http://p5.giffy.be:8080/Testing1/Testing1/21120
-#EXTINF:-1 tvg-id="jinvani.in" tvg-name="HINDI | JINVANI" tvg-logo="https://i.imgur.com/43OgS8N.png" group-title="HINDI",HINDI | JINVANI
-http://p5.giffy.be:8080/Testing1/Testing1/21121
-#EXTINF:-1 tvg-id="arihant.in" tvg-name="HINDI | ARIHANT" tvg-logo="https://i.imgur.com/lBqY85z.png" group-title="HINDI",HINDI | ARIHANT
-http://p5.giffy.be:8080/Testing1/Testing1/21122
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | MUSIC ZONE" tvg-logo="https://i.imgur.com/Pdr8ozN.png" group-title="HINDI",HINDI | MUSIC ZONE
-http://p5.giffy.be:8080/Testing1/Testing1/21123
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | SAHARAUP" tvg-logo="https://i.imgur.com/oXvXwLT.png" group-title="HINDI",HINDI | SAHARAUP
-http://p5.giffy.be:8080/Testing1/Testing1/21124
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | SAHARABIHAR" tvg-logo="https://i.imgur.com/VEWnQ73.png" group-title="HINDI",HINDI | SAHARABIHAR
-http://p5.giffy.be:8080/Testing1/Testing1/21125
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | SAHARA NATIONAL" tvg-logo="https://i.imgur.com/NvWV12Z.png" group-title="HINDI",HINDI | SAHARA NATIONAL
-http://p5.giffy.be:8080/Testing1/Testing1/21126
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | SAHARA RAJASTHAN" tvg-logo="https://i.imgur.com/zhQb9g4.png" group-title="HINDI",HINDI | SAHARA RAJASTHAN
-http://p5.giffy.be:8080/Testing1/Testing1/21127
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | SAHARAMP" tvg-logo="https://i.imgur.com/RWzQ3Va.png" group-title="HINDI",HINDI | SAHARAMP
-http://p5.giffy.be:8080/Testing1/Testing1/21128
-#EXTINF:-1 tvg-id="kanaknews.in" tvg-name="HINDI | KNEWS INDIA" tvg-logo="https://i.imgur.com/zdcKIIB.png" group-title="HINDI",HINDI | KNEWS INDIA
-http://p5.giffy.be:8080/Testing1/Testing1/21129
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | MAHAVIRA TV" tvg-logo="https://i.imgur.com/IfpYWhY.png" group-title="HINDI",HINDI | MAHAVIRA TV
-http://p5.giffy.be:8080/Testing1/Testing1/21130
-#EXTINF:-1 tvg-id="republictv.in" tvg-name="HINDI | REPUBLIC BHARAT" tvg-logo="https://i.imgur.com/5rhxuK8.png" group-title="HINDI",HINDI | REPUBLIC BHARAT
-http://p5.giffy.be:8080/Testing1/Testing1/21131
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | SWADESH NEWS" tvg-logo="https://i.imgur.com/m3RyciY.png" group-title="HINDI",HINDI | SWADESH NEWS
-http://p5.giffy.be:8080/Testing1/Testing1/21132
-#EXTINF:-1 tvg-id="dishatv.in" tvg-name="HINDI | DISHA NEWS" tvg-logo="https://i.imgur.com/ej3EZaN.png" group-title="HINDI",HINDI | DISHA NEWS
-http://p5.giffy.be:8080/Testing1/Testing1/21133
-#EXTINF:-1 tvg-id="manoranjanmovies.in" tvg-name="HINDI | MANORANJAN" tvg-logo="https://i.imgur.com/8cjPGv1.png" group-title="HINDI",HINDI | MANORANJAN
-http://p5.giffy.be:8080/Testing1/Testing1/21134
-#EXTINF:-1 tvg-id="enterr10.in" tvg-name="HINDI | ENTERR10" tvg-logo="https://i.imgur.com/gT6bITq.png" group-title="HINDI",HINDI | ENTERR10
-http://p5.giffy.be:8080/Testing1/Testing1/21135
-#EXTINF:-1 tvg-id="dangal.in" tvg-name="HINDI | DANGAL" tvg-logo="https://i.imgur.com/Kr9djl1.png" group-title="HINDI",HINDI | DANGAL
-http://p5.giffy.be:8080/Testing1/Testing1/21136
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | RAFTAAR" tvg-logo="https://i.imgur.com/OuHvc1b.png" group-title="HINDI",HINDI | RAFTAAR
-http://p5.giffy.be:8080/Testing1/Testing1/21137
-#EXTINF:-1 tvg-id="a1tv.in" tvg-name="HINDI | A1TV" tvg-logo="https://i.imgur.com/TmDRIwp.png" group-title="HINDI",HINDI | A1TV
-http://p5.giffy.be:8080/Testing1/Testing1/21138
-#EXTINF:-1 tvg-id="khushboobangla.in" tvg-name="HINDI | KHUSHBOO" tvg-logo="https://i.imgur.com/pr9cpvY.png" group-title="HINDI",HINDI | KHUSHBOO
-http://p5.giffy.be:8080/Testing1/Testing1/21139
-#EXTINF:-1 tvg-id="tv24.in" tvg-name="HINDI | TV24" tvg-logo="https://i.imgur.com/6rJv581.png" group-title="HINDI",HINDI | TV24
-http://p5.giffy.be:8080/Testing1/Testing1/21140
-#EXTINF:-1 tvg-id="bansalnews.in" tvg-name="HINDI | BANSAL" tvg-logo="https://i.imgur.com/EmXYdw2.png" group-title="HINDI",HINDI | BANSAL
-http://p5.giffy.be:8080/Testing1/Testing1/21141
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | INDIA FASHION" tvg-logo="" group-title="HINDI",HINDI | INDIA FASHION
-http://p5.giffy.be:8080/Testing1/Testing1/21142
-#EXTINF:-1 tvg-id="lordbuddhatv.in" tvg-name="HINDI | LORD BUDDHA" tvg-logo="https://i.imgur.com/qUcn1IN.png" group-title="HINDI",HINDI | LORD BUDDHA
-http://p5.giffy.be:8080/Testing1/Testing1/21143
-#EXTINF:-1 tvg-id="jantantratv.in" tvg-name="HINDI | JANTANTRA" tvg-logo="https://i.imgur.com/Ysvng8S.png" group-title="HINDI",HINDI | JANTANTRA
-http://p5.giffy.be:8080/Testing1/Testing1/21144
-#EXTINF:-1 tvg-id="multiplex.in" tvg-name="HINDI | MULTIPLEX" tvg-logo="https://i.imgur.com/Vmft49F.png" group-title="HINDI",HINDI | MULTIPLEX
-http://p5.giffy.be:8080/Testing1/Testing1/21145
-#EXTINF:-1 tvg-id="peaceofmind.in" tvg-name="HINDI | PEACE OF MIND" tvg-logo="https://i.imgur.com/oiu4Nfy.png" group-title="HINDI",HINDI | PEACE OF MIND
-http://p5.giffy.be:8080/Testing1/Testing1/21146
-#EXTINF:-1 tvg-id="housefullmovies.in" tvg-name="HINDI | HOUSE FULL MOVIES" tvg-logo="https://i.imgur.com/KNaAWuF.png" group-title="HINDI",HINDI | HOUSE FULL MOVIES
-http://p5.giffy.be:8080/Testing1/Testing1/21147
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | DNN" tvg-logo="https://i.imgur.com/XY3qpZ4.png" group-title="HINDI",HINDI | DNN
-http://p5.giffy.be:8080/Testing1/Testing1/21148
-#EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="HINDI | BHAKTISAGAR2" tvg-logo="https://i.imgur.com/OGrJXIV.png" group-title="HINDI",HINDI | BHAKTISAGAR2
-http://p5.giffy.be:8080/Testing1/Testing1/21149
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | MTUNESPLUS" tvg-logo="https://i.imgur.com/Qh5d9tq.png" group-title="HINDI",HINDI | MTUNESPLUS
-http://p5.giffy.be:8080/Testing1/Testing1/21150
-#EXTINF:-1 tvg-id="wowcinema.in" tvg-name="HINDI | WOW" tvg-logo="https://i.imgur.com/EidoyBP.png" group-title="HINDI",HINDI | WOW
-http://p5.giffy.be:8080/Testing1/Testing1/21151
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | BOX CINEMA" tvg-logo="https://i.imgur.com/CBv0nTY.png" group-title="HINDI",HINDI | BOX CINEMA
-http://p5.giffy.be:8080/Testing1/Testing1/21152
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | TEHZEEBTV" tvg-logo="https://i.imgur.com/nUSPIOH.png" group-title="HINDI",HINDI | TEHZEEBTV
-http://p5.giffy.be:8080/Testing1/Testing1/21153
-#EXTINF:-1 tvg-id="e24.in" tvg-name="HINDI | E24" tvg-logo="https://i.imgur.com/JYnmtYp.png" group-title="HINDI",HINDI | E24
-http://p5.giffy.be:8080/Testing1/Testing1/21154
-#EXTINF:-1 tvg-id="bflixmovies.in" tvg-name="HINDI | BFLIXMOVIE" tvg-logo="https://i.imgur.com/3cnaMVo.png" group-title="HINDI",HINDI | BFLIXMOVIE
-http://p5.giffy.be:8080/Testing1/Testing1/21155
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | JK24x7" tvg-logo="https://i.imgur.com/fhBrHqW.png" group-title="HINDI",HINDI | JK24x7
-http://p5.giffy.be:8080/Testing1/Testing1/21156
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | DARSHAN24" tvg-logo="https://i.imgur.com/ygaeLHq.png" group-title="HINDI",HINDI | DARSHAN24
-http://p5.giffy.be:8080/Testing1/Testing1/21157
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | SOHAM" tvg-logo="https://i.imgur.com/cSSvX4q.png" group-title="HINDI",HINDI | SOHAM
-http://p5.giffy.be:8080/Testing1/Testing1/21158
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | IPLUSTV" tvg-logo="https://i.imgur.com/pADb0eo.png" group-title="HINDI",HINDI | IPLUSTV
-http://p5.giffy.be:8080/Testing1/Testing1/21159
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | FIRST INDIA" tvg-logo="https://i.imgur.com/oXzElhj.png" group-title="HINDI",HINDI | FIRST INDIA
-http://p5.giffy.be:8080/Testing1/Testing1/21160
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | KHABARFAST" tvg-logo="https://i.imgur.com/Srwu1uz.png" group-title="HINDI",HINDI | KHABARFAST
-http://p5.giffy.be:8080/Testing1/Testing1/21161
-#EXTINF:-1 tvg-id="mahamovie.in" tvg-name="HINDI | MAHAMOVIE" tvg-logo="https://i.imgur.com/Bv1JYw9.png" group-title="HINDI",HINDI | MAHAMOVIE
-http://p5.giffy.be:8080/Testing1/Testing1/21162
-#EXTINF:-1 tvg-id="indiatv.in" tvg-name="HINDI | INDIATV" tvg-logo="https://i.imgur.com/KNGnU4G.png" group-title="HINDI",HINDI | INDIATV
-http://p5.giffy.be:8080/Testing1/Testing1/21163
-#EXTINF:-1 tvg-id="jantatv.in" tvg-name="HINDI | JANTV" tvg-logo="https://i.imgur.com/M8nQHvB.png" group-title="HINDI",HINDI | JANTV
-http://p5.giffy.be:8080/Testing1/Testing1/21164
-#EXTINF:-1 tvg-id="zeehindustan.in" tvg-name="HINDI | ZEEHINDUSTAN" tvg-logo="https://i.imgur.com/pon61qY.png" group-title="HINDI",HINDI | ZEEHINDUSTAN
-http://p5.giffy.be:8080/Testing1/Testing1/21165
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | HOLIDAYZ" tvg-logo="https://i.imgur.com/I9KVL4R.png" group-title="HINDI",HINDI | HOLIDAYZ
-http://p5.giffy.be:8080/Testing1/Testing1/21166
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | SAMACHARINDIA" tvg-logo="https://i.imgur.com/LyRjEdb.png" group-title="HINDI",HINDI | SAMACHARINDIA
-http://p5.giffy.be:8080/Testing1/Testing1/21167
-#EXTINF:-1 tvg-id="inh24x7.in" tvg-name="HINDI | INH24X7" tvg-logo="https://i.imgur.com/5sSUN3y.png" group-title="HINDI",HINDI | INH24X7
-http://p5.giffy.be:8080/Testing1/Testing1/21168
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | SUBHARATI" tvg-logo="https://i.imgur.com/sHFQpci.png" group-title="HINDI",HINDI | SUBHARATI
-http://p5.giffy.be:8080/Testing1/Testing1/21169
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | SHOWBOX" tvg-logo="https://i.imgur.com/RmLOGRM.png" group-title="HINDI",HINDI | SHOWBOX
-http://p5.giffy.be:8080/Testing1/Testing1/21170
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | ZINGAAT" tvg-logo="https://i.imgur.com/Vekxxts.png" group-title="HINDI",HINDI | ZINGAAT
-http://p5.giffy.be:8080/Testing1/Testing1/21171
-#EXTINF:-1 tvg-id="news24.in" tvg-name="HINDI | NEWS24" tvg-logo="https://i.imgur.com/UQVuu9b.png" group-title="HINDI",HINDI | NEWS24
-http://p5.giffy.be:8080/Testing1/Testing1/21172
-#EXTINF:-1 tvg-id="hindikhabar.in" tvg-name="HINDI | HINDIKHABAR" tvg-logo="https://i.imgur.com/wY3dvGe.png" group-title="HINDI",HINDI | HINDIKHABAR
-http://p5.giffy.be:8080/Testing1/Testing1/21173
-#EXTINF:-1 tvg-id="dillagitv.in" tvg-name="HINDI | DILLAGII" tvg-logo="https://i.imgur.com/UGG9i7j.png" group-title="HINDI",HINDI | DILLAGII
-http://p5.giffy.be:8080/Testing1/Testing1/21174
-#EXTINF:-1 tvg-id="dabanggtv.in" tvg-name="HINDI | DABANG" tvg-logo="https://i.imgur.com/oLhc7fL.png" group-title="HINDI",HINDI | DABANG
-http://p5.giffy.be:8080/Testing1/Testing1/21175
-#EXTINF:-1 tvg-id="musicindia.in" tvg-name="HINDI | MUSICINDIA" tvg-logo="https://i.imgur.com/ytSksE3.png" group-title="HINDI",HINDI | MUSICINDIA
-http://p5.giffy.be:8080/Testing1/Testing1/21176
-#EXTINF:-1 tvg-id="bharatsamachar.in" tvg-name="HINDI | BHARATSAMACHAR" tvg-logo="https://i.imgur.com/nwAjMFn.png" group-title="HINDI",HINDI | BHARATSAMACHAR
-http://p5.giffy.be:8080/Testing1/Testing1/21177
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | ABPGANGA" tvg-logo="https://i.imgur.com/uYEhBJQ.png" group-title="HINDI",HINDI | ABPGANGA
-http://p5.giffy.be:8080/Testing1/Testing1/21178
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | AALAMISAHARA" tvg-logo="https://i.imgur.com/hxer6y8.png" group-title="HINDI",HINDI | AALAMISAHARA
-http://p5.giffy.be:8080/Testing1/Testing1/21179
-#EXTINF:-1 tvg-id="b4umovies.in" tvg-name="HINDI | B4UMOVIESINDIA" tvg-logo="https://i.imgur.com/ADfQqvc.png" group-title="HINDI",HINDI | B4UMOVIESINDIA
-http://p5.giffy.be:8080/Testing1/Testing1/21180
-#EXTINF:-1 tvg-id="b4umusic.in" tvg-name="HINDI | B4UMUSICINDIA" tvg-logo="https://i.imgur.com/zUF0TkX.png" group-title="HINDI",HINDI | B4UMUSICINDIA
-http://p5.giffy.be:8080/Testing1/Testing1/21181
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | FIRANGI" tvg-logo="https://i.imgur.com/rIfPpeG.png" group-title="HINDI",HINDI | FIRANGI
-http://p5.giffy.be:8080/Testing1/Testing1/21182
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | SAHARAFILMI" tvg-logo="https://i.imgur.com/IDsS2GY.png" group-title="HINDI",HINDI | SAHARAFILMI
-http://p5.giffy.be:8080/Testing1/Testing1/21183
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | SAHARANCR" tvg-logo="https://i.imgur.com/sv9SPU0.png" group-title="HINDI",HINDI | SAHARANCR
-http://p5.giffy.be:8080/Testing1/Testing1/21184
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | B4UKADAK" tvg-logo="https://i.imgur.com/IzvpRd9.png" group-title="HINDI",HINDI | B4UKADAK
-http://p5.giffy.be:8080/Testing1/Testing1/21185
-#EXTINF:-1 tvg-id="housefullaction.in" tvg-name="HINDI | HOUSEFULLACTION" tvg-logo="https://i.imgur.com/m9AQvMS.png" group-title="HINDI",HINDI | HOUSEFULLACTION
-http://p5.giffy.be:8080/Testing1/Testing1/21186
-#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="HINDI | 9XJALWA" tvg-logo="https://i.imgur.com/O5VAVeo.png" group-title="HINDI",HINDI | 9XJALWA
-http://p5.giffy.be:8080/Testing1/Testing1/21187
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | KHABRAINABHITAK" tvg-logo="https://i.imgur.com/prMc96V.png" group-title="HINDI",HINDI | KHABRAINABHITAK
-http://p5.giffy.be:8080/Testing1/Testing1/21188
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | IND24" tvg-logo="https://i.imgur.com/SGkYQnD.png" group-title="HINDI",HINDI | IND24
-http://p5.giffy.be:8080/Testing1/Testing1/21189
-#EXTINF:-1 tvg-id="9xm.in" tvg-name="HINDI | 9XM" tvg-logo="https://i.imgur.com/5V8WRjc.png" group-title="HINDI",HINDI | 9XM
-http://p5.giffy.be:8080/Testing1/Testing1/21190
-#EXTINF:-1 tvg-id="bigmagic.in" tvg-name="HINDI | BIGMAGIC" tvg-logo="https://i.imgur.com/d17cZq9.png" group-title="HINDI",HINDI | BIGMAGIC
-http://p5.giffy.be:8080/Testing1/Testing1/21191
-#EXTINF:-1 tvg-id="cinematv.in" tvg-name="HINDI | CINEMATVINDIA" tvg-logo="https://i.imgur.com/fR2zhfF.png" group-title="HINDI",HINDI | CINEMATVINDIA
-http://p5.giffy.be:8080/Testing1/Testing1/21192
-#EXTINF:-1 tvg-id="ddbihar.in" tvg-name="HINDI | DDBIHAR" tvg-logo="https://i.imgur.com/3ma3aGt.png" group-title="HINDI",HINDI | DDBIHAR
-http://p5.giffy.be:8080/Testing1/Testing1/21193
-#EXTINF:-1 tvg-id="ddmadhyapradesh.in" tvg-name="HINDI | DDMP" tvg-logo="https://i.imgur.com/1PDzkma.png" group-title="HINDI",HINDI | DDMP
-http://p5.giffy.be:8080/Testing1/Testing1/21194
-#EXTINF:-1 tvg-id="ddnational.in" tvg-name="HINDI | DDNATIONAL" tvg-logo="https://i.imgur.com/FwrxQxr.png" group-title="HINDI",HINDI | DDNATIONAL
-http://p5.giffy.be:8080/Testing1/Testing1/21195
-#EXTINF:-1 tvg-id="ddnews.in" tvg-name="HINDI | DDNEWS" tvg-logo="https://i.imgur.com/eJPbrDy.png" group-title="HINDI",HINDI | DDNEWS
-http://p5.giffy.be:8080/Testing1/Testing1/21196
-#EXTINF:-1 tvg-id="ddsports.in" tvg-name="HINDI | DDSPORTS" tvg-logo="https://i.imgur.com/37BDEdV.png" group-title="HINDI",HINDI | DDSPORTS
-http://p5.giffy.be:8080/Testing1/Testing1/21197
-#EXTINF:-1 tvg-id="dduttarpradesh.in" tvg-name="HINDI | DDUP" tvg-logo="https://i.imgur.com/fBuBmHx.png" group-title="HINDI",HINDI | DDUP
-http://p5.giffy.be:8080/Testing1/Testing1/21198
-#EXTINF:-1 tvg-id="ddurdu.in" tvg-name="HINDI | DDURDU" tvg-logo="https://i.imgur.com/GQLPvfJ.png" group-title="HINDI",HINDI | DDURDU
-http://p5.giffy.be:8080/Testing1/Testing1/21199
-#EXTINF:-1 tvg-id="mtvbeats.in" tvg-name="HINDI | MTVBEATS" tvg-logo="https://i.imgur.com/TATraC6.png" group-title="HINDI",HINDI | MTVBEATS
-http://p5.giffy.be:8080/Testing1/Testing1/21200
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | MANORANJANGRAND" tvg-logo="https://i.imgur.com/cvWtFNv.png" group-title="HINDI",HINDI | MANORANJANGRAND
-http://p5.giffy.be:8080/Testing1/Testing1/21201
-#EXTINF:-1 tvg-id="mastiii.in" tvg-name="HINDI | MASTIII" tvg-logo="https://i.imgur.com/qP3BVxc.png" group-title="HINDI",HINDI | MASTIII
-http://p5.giffy.be:8080/Testing1/Testing1/21202
-#EXTINF:-1 tvg-id="indianews.in" tvg-name="HINDI | INDIANEWS" tvg-logo="https://i.imgur.com/ujNe8Vg.png" group-title="HINDI",HINDI | INDIANEWS
-http://p5.giffy.be:8080/Testing1/Testing1/21203
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | NEWS18INDIA" tvg-logo="https://i.imgur.com/oXvXwLT.png" group-title="HINDI",HINDI | NEWS18INDIA
-http://p5.giffy.be:8080/Testing1/Testing1/21204
-#EXTINF:-1 tvg-id="sonymix.in" tvg-name="HINDI | SONYMIX" tvg-logo="https://i.imgur.com/a0mmSeF.png" group-title="HINDI",HINDI | SONYMIX
-http://p5.giffy.be:8080/Testing1/Testing1/21205
-#EXTINF:-1 tvg-id="starsports1.in" tvg-name="HINDI | STARSPORTSFIRST" tvg-logo="https://i.imgur.com/Rv2QjgB.png" group-title="HINDI",HINDI | STARSPORTSFIRST
-http://p5.giffy.be:8080/Testing1/Testing1/21206
-#EXTINF:-1 tvg-id="aajtak.in" tvg-name="HINDI | AAJTAK" tvg-logo="https://i.imgur.com/nbDkHCS.png" group-title="HINDI",HINDI | AAJTAK
-http://p5.giffy.be:8080/Testing1/Testing1/21207
-#EXTINF:-1 tvg-id="aajtak.in" tvg-name="HINDI | AAJTAKTEZ" tvg-logo="https://i.imgur.com/nbDkHCS.png" group-title="HINDI",HINDI | AAJTAKTEZ
-http://p5.giffy.be:8080/Testing1/Testing1/21208
-#EXTINF:-1 tvg-id="ndtvindia.in" tvg-name="HINDI | NDTVINDIA" tvg-logo="https://i.imgur.com/ZNZjSeV.png" group-title="HINDI",HINDI | NDTVINDIA
-http://p5.giffy.be:8080/Testing1/Testing1/21209
-#EXTINF:-1 tvg-id="ddindia.in" tvg-name="HINDI | DDINDIA" tvg-logo="" group-title="HINDI",HINDI | DDINDIA
-http://p5.giffy.be:8080/Testing1/Testing1/21210
-#EXTINF:-1 tvg-id="ddbharati.in" tvg-name="HINDI | DDBHARATI" tvg-logo="https://i.imgur.com/Rxf4nLh.png" group-title="HINDI",HINDI | DDBHARATI
-http://p5.giffy.be:8080/Testing1/Testing1/21211
-#EXTINF:-1 tvg-id="ddkashir.in" tvg-name="HINDI | DDKASHIR" tvg-logo="https://i.imgur.com/bWQmLMM.png" group-title="HINDI",HINDI | DDKASHIR
-http://p5.giffy.be:8080/Testing1/Testing1/21212
-#EXTINF:-1 tvg-id="ddkisan.in" tvg-name="HINDI | DDKISAN" tvg-logo="https://i.imgur.com/enXQQpw.png" group-title="HINDI",HINDI | DDKISAN
-http://p5.giffy.be:8080/Testing1/Testing1/21213
-#EXTINF:-1 tvg-id="ddrajasthan.in" tvg-name="HINDI | DDRAJASTHAN" tvg-logo="https://i.imgur.com/qoES6Gc.png" group-title="HINDI",HINDI | DDRAJASTHAN
-http://p5.giffy.be:8080/Testing1/Testing1/21214
-#EXTINF:-1 tvg-id="loksabhatv.in" tvg-name="HINDI | LOKSABHA" tvg-logo="https://i.imgur.com/KVtfiII.png" group-title="HINDI",HINDI | LOKSABHA
-http://p5.giffy.be:8080/Testing1/Testing1/21215
-#EXTINF:-1 tvg-id="news18india.in" tvg-name="HINDI | NEWS18RAJASTHAN" tvg-logo="https://i.imgur.com/Ma10tUt.png" group-title="HINDI",HINDI | NEWS18RAJASTHAN
-http://p5.giffy.be:8080/Testing1/Testing1/21216
-#EXTINF:-1 tvg-id="news18upuk.in" tvg-name="HINDI | NEWS18UP" tvg-logo="https://i.imgur.com/YEGKcqT.png" group-title="HINDI",HINDI | NEWS18UP
-http://p5.giffy.be:8080/Testing1/Testing1/21217
-#EXTINF:-1 tvg-id="sadhanatv.in" tvg-name="HINDI | SADHNABHAKTI" tvg-logo="https://i.imgur.com/mc3uLG0.png" group-title="HINDI",HINDI | SADHNABHAKTI
-http://p5.giffy.be:8080/Testing1/Testing1/21218
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | SUBHTV" tvg-logo="https://i.imgur.com/waHGccB.png" group-title="HINDI",HINDI | SUBHTV
-http://p5.giffy.be:8080/Testing1/Testing1/21219
-#EXTINF:-1 tvg-id="suryasamachar.in" tvg-name="HINDI | SURYASAMACHAR" tvg-logo="https://i.imgur.com/HiYaaNh.png" group-title="HINDI",HINDI | SURYASAMACHAR
-http://p5.giffy.be:8080/Testing1/Testing1/21220
-#EXTINF:-1 tvg-id="kanaknews.in" tvg-name="HINDI | SD-HIN-KNEWSINDIA" tvg-logo="https://i.imgur.com/YuPRV2N.png" group-title="HINDI",HINDI | SD-HIN-KNEWSINDIA
-http://p5.giffy.be:8080/Testing1/Testing1/21221
-#EXTINF:-1 tvg-id="sadhnanews.in" tvg-name="HINDI | SADHNAPRIMENEWS" tvg-logo="https://i.imgur.com/aLeilIp.png" group-title="HINDI",HINDI | SADHNAPRIMENEWS
-http://p5.giffy.be:8080/Testing1/Testing1/21222
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | SATYA" tvg-logo="https://i.imgur.com/y6MnCxF.png" group-title="HINDI",HINDI | SATYA
-http://p5.giffy.be:8080/Testing1/Testing1/21223
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | HAREKRSNA" tvg-logo="https://i.imgur.com/HH5uiJA.png" group-title="HINDI",HINDI | HAREKRSNA
-http://p5.giffy.be:8080/Testing1/Testing1/21224
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | ANBNEWS" tvg-logo="https://i.imgur.com/WFtixJG.png" group-title="HINDI",HINDI | ANBNEWS
-http://p5.giffy.be:8080/Testing1/Testing1/21225
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | BHASKARNEWS" tvg-logo="https://i.imgur.com/S1KhmOA.png" group-title="HINDI",HINDI | BHASKARNEWS
-http://p5.giffy.be:8080/Testing1/Testing1/21226
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | ARYANTV" tvg-logo="https://i.imgur.com/hJcotBp.png" group-title="HINDI",HINDI | ARYANTV
-http://p5.giffy.be:8080/Testing1/Testing1/21227
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | MOVIEPLUS" tvg-logo="https://i.imgur.com/lTE6tAz.png" group-title="HINDI",HINDI | MOVIEPLUS
-http://p5.giffy.be:8080/Testing1/Testing1/21228
-#EXTINF:-1 tvg-id="theqindia.in" tvg-name="HINDI | THEQ" tvg-logo="https://i.imgur.com/4ajaxZF.png" group-title="HINDI",HINDI | THEQ
-http://p5.giffy.be:8080/Testing1/Testing1/21229
-#EXTINF:-1 tvg-id="dhamaaltv.in" tvg-name="HINDI | DHAMAAL" tvg-logo="https://i.imgur.com/z3UPvfT.png" group-title="HINDI",HINDI | DHAMAAL
-http://p5.giffy.be:8080/Testing1/Testing1/21230
-#EXTINF:-1 tvg-id="sudarshannews.in" tvg-name="HINDI | SUDARSHAN" tvg-logo="https://i.imgur.com/LElkraR.png" group-title="HINDI",HINDI | SUDARSHAN
-http://p5.giffy.be:8080/Testing1/Testing1/21231
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | NAZRANA" tvg-logo="https://i.imgur.com/N4gubDX.png" group-title="HINDI",HINDI | NAZRANA
-http://p5.giffy.be:8080/Testing1/Testing1/21232
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | POPPATAKA" tvg-logo="https://i.imgur.com/oXvXwLT.png" group-title="HINDI",HINDI | POPPATAKA
-http://p5.giffy.be:8080/Testing1/Testing1/21233
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | SAKKAT" tvg-logo="https://i.imgur.com/2MxAsYC.png" group-title="HINDI",HINDI | SAKKAT
-http://p5.giffy.be:8080/Testing1/Testing1/21234
-#EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="HINDI | BHAKTISAGAR" tvg-logo="https://i.imgur.com/BUEEZPj.png" group-title="HINDI",HINDI | BHAKTISAGAR
-http://p5.giffy.be:8080/Testing1/Testing1/21235
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | DILSE" tvg-logo="https://i.imgur.com/zztCXDs.png" group-title="HINDI",HINDI | DILSE
-http://p5.giffy.be:8080/Testing1/Testing1/21236
-#EXTINF:-1 tvg-id="aastha.in" tvg-name="HINDI | AASTHA" tvg-logo="https://i.imgur.com/7No5AGW.png" group-title="HINDI",HINDI | AASTHA
-http://p5.giffy.be:8080/Testing1/Testing1/21237
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | INDIANEWSUP" tvg-logo="https://i.imgur.com/my9rgD9.png" group-title="HINDI",HINDI | INDIANEWSUP
-http://p5.giffy.be:8080/Testing1/Testing1/21238
-#EXTINF:-1 tvg-id="indianewsmpch.in" tvg-name="HINDI | INDIANEWSMP" tvg-logo="https://i.imgur.com/dssurad.png" group-title="HINDI",HINDI | INDIANEWSMP
-http://p5.giffy.be:8080/Testing1/Testing1/21239
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | AMNEWS" tvg-logo="https://i.imgur.com/MjXHfXe.png" group-title="HINDI",HINDI | AMNEWS
-http://p5.giffy.be:8080/Testing1/Testing1/21240
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | ANDY" tvg-logo="https://i.imgur.com/mHuE8s9.png" group-title="HINDI",HINDI | ANDY
-http://p5.giffy.be:8080/Testing1/Testing1/21241
-#EXTINF:-1 tvg-id="indianewsharyana.in" tvg-name="HINDI | INDIANEWSHARYANA" tvg-logo="https://i.imgur.com/YQSno2j.png" group-title="HINDI",HINDI | INDIANEWSHARYANA
-http://p5.giffy.be:8080/Testing1/Testing1/21242
-#EXTINF:-1 tvg-id="indianewsraj.in" tvg-name="HINDI | INDIANEWSRAJASTHAN" tvg-logo="https://i.imgur.com/kWFchlC.png" group-title="HINDI",HINDI | INDIANEWSRAJASTHAN
-http://p5.giffy.be:8080/Testing1/Testing1/21243
-#EXTINF:-1 tvg-id="okindia.in" tvg-name="HINDI | OKINDIA" tvg-logo="https://i.imgur.com/sN03lo0.png" group-title="HINDI",HINDI | OKINDIA
-http://p5.giffy.be:8080/Testing1/Testing1/21244
-#EXTINF:-1 tvg-id="utvaction.in" tvg-name="HINDI | UTVACTION" tvg-logo="https://i.imgur.com/5X5AU5x.png" group-title="HINDI",HINDI | UTVACTION
-http://p5.giffy.be:8080/Testing1/Testing1/21245
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | NATIONFIRST" tvg-logo="https://i.imgur.com/DF8lUqH.png" group-title="HINDI",HINDI | NATIONFIRST
-http://p5.giffy.be:8080/Testing1/Testing1/21246
-#EXTINF:-1 tvg-id="" tvg-name="HINDI | KADAKHITS" tvg-logo="https://i.imgur.com/7SNTm7b.png" group-title="HINDI",HINDI | KADAKHITS
-http://p5.giffy.be:8080/Testing1/Testing1/21247
-#EXTINF:-1 tvg-id="nick.in" tvg-name="ENGLISH | NICK" tvg-logo="https://i.imgur.com/UIjncFK.png" group-title="HINDI",ENGLISH | NICK
-http://p5.giffy.be:8080/Testing1/Testing1/21248
-#EXTINF:-1 tvg-id="disneyinternationalhd.in" tvg-name="ENGLISH | DISNEY INTER" tvg-logo="https://i.imgur.com/skJocnR.png" group-title="HINDI",ENGLISH | DISNEY INTER
-http://p5.giffy.be:8080/Testing1/Testing1/21249
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="ENGLISH | AND PRIVE" tvg-logo="https://i.imgur.com/6JA6xkL.png" group-title="HINDI",ENGLISH | AND PRIVE
-http://p5.giffy.be:8080/Testing1/Testing1/21250
-#EXTINF:-1 tvg-id="colorsinfinityhd.in" tvg-name="ENGLISH | COLORS INFINITY" tvg-logo="https://i.imgur.com/PlaOKsi.png" group-title="HINDI",ENGLISH | COLORS INFINITY
-http://p5.giffy.be:8080/Testing1/Testing1/21251
-#EXTINF:-1 tvg-id="moviesnow.in" tvg-name="ENGLISH | MOVIES NOW" tvg-logo="https://i.imgur.com/i2Ubbct.png" group-title="HINDI",ENGLISH | MOVIES NOW
-http://p5.giffy.be:8080/Testing1/Testing1/21252
-#EXTINF:-1 tvg-id="mnx.in" tvg-name="ENGLISH | MNX" tvg-logo="https://i.imgur.com/bVeHJ2N.png" group-title="HINDI",ENGLISH | MNX
-http://p5.giffy.be:8080/Testing1/Testing1/21253
-#EXTINF:-1 tvg-id="mnplushd.in" tvg-name="ENGLISH | MNPLUS" tvg-logo="https://i.imgur.com/pW6ju5f.png" group-title="HINDI",ENGLISH | MNPLUS
-http://p5.giffy.be:8080/Testing1/Testing1/21254
-#EXTINF:-1 tvg-id="hbohd.in" tvg-name="ENGLISH | HBO" tvg-logo="https://i.imgur.com/on89Kf9.png" group-title="HINDI",ENGLISH | HBO
-http://p5.giffy.be:8080/Testing1/Testing1/21255
-#EXTINF:-1 tvg-id="babytvhd.in" tvg-name="ENGLISH | BABYTV" tvg-logo="https://i.imgur.com/bHCSUhv.png" group-title="HINDI",ENGLISH | BABYTV
-http://p5.giffy.be:8080/Testing1/Testing1/21256
-#EXTINF:-1 tvg-id="timesnow.in" tvg-name="ENGLISH | TIMES NOW" tvg-logo="https://i.imgur.com/rrgXIoG.png" group-title="HINDI",ENGLISH | TIMES NOW
-http://p5.giffy.be:8080/Testing1/Testing1/21257
-#EXTINF:-1 tvg-id="zeecafe.in" tvg-name="ENGLISH | ZEE CAFE" tvg-logo="https://i.imgur.com/jJDJpdb.png" group-title="HINDI",ENGLISH | ZEE CAFE
-http://p5.giffy.be:8080/Testing1/Testing1/21258
-#EXTINF:-1 tvg-id="sonypix.in" tvg-name="ENGLISH | SONY PIX" tvg-logo="https://i.imgur.com/IsPd0gC.png" group-title="HINDI",ENGLISH | SONY PIX
-http://p5.giffy.be:8080/Testing1/Testing1/21259
-#EXTINF:-1 tvg-id="romedynowhdin" tvg-name="ENGLISH | ROMEDY NOW" tvg-logo="https://i.imgur.com/SiBTYUr.png" group-title="HINDI",ENGLISH | ROMEDY NOW
-http://p5.giffy.be:8080/Testing1/Testing1/21260
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="ENGLISH | AND FLIX" tvg-logo="https://i.imgur.com/4F12Ocs.png" group-title="HINDI",ENGLISH | AND FLIX
-http://p5.giffy.be:8080/Testing1/Testing1/21261
-#EXTINF:-1 tvg-id="" tvg-name="ENGLISH | D2H RHYMIS" tvg-logo="https://i.imgur.com/oXvXwLT.png" group-title="HINDI",ENGLISH | D2H RHYMIS
-http://p5.giffy.be:8080/Testing1/Testing1/21262
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="ENGLISH | STAR MOVIES" tvg-logo="https://i.imgur.com/Dirg7hj.png" group-title="HINDI",ENGLISH | STAR MOVIES
-http://p5.giffy.be:8080/Testing1/Testing1/21263
-#EXTINF:-1 tvg-id="starworld.in" tvg-name="ENGLISH | STAR WORLD" tvg-logo="https://i.imgur.com/2F2fNFT.png" group-title="HINDI",ENGLISH | STAR WORLD
-http://p5.giffy.be:8080/Testing1/Testing1/21264
-#EXTINF:-1 tvg-id="starworld.in" tvg-name="ENGLISH | STARWORLD PREM" tvg-logo="https://i.imgur.com/p9vkq4b.png" group-title="HINDI",ENGLISH | STARWORLD PREM
-http://p5.giffy.be:8080/Testing1/Testing1/21265
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="ENGLISH | STARSELECT MOV" tvg-logo="https://i.imgur.com/0hJwaVZ.png" group-title="HINDI",ENGLISH | STARSELECT MOV
-http://p5.giffy.be:8080/Testing1/Testing1/21266
-#EXTINF:-1 tvg-id="indiaahead.in" tvg-name="ENGLISH | INDIA AHEAD" tvg-logo="https://i.imgur.com/9R7fLeN.png" group-title="HINDI",ENGLISH | INDIA AHEAD
-http://p5.giffy.be:8080/Testing1/Testing1/21267
-#EXTINF:-1 tvg-id="republictv.in" tvg-name="ENGLISH | REPUBLIC" tvg-logo="https://i.imgur.com/PKw07WZ.png" group-title="HINDI",ENGLISH | REPUBLIC
-http://p5.giffy.be:8080/Testing1/Testing1/21268
-#EXTINF:-1 tvg-id="news9.in" tvg-name="ENGLISH | NEWS9" tvg-logo="https://i.imgur.com/VrOpN2I.png" group-title="HINDI",ENGLISH | NEWS9
-http://p5.giffy.be:8080/Testing1/Testing1/21269
-#EXTINF:-1 tvg-id="channelwin.in" tvg-name="ENGLISH | CHANNEL WIN" tvg-logo="https://i.imgur.com/ryHYEcx.png" group-title="HINDI",ENGLISH | CHANNEL WIN
-http://p5.giffy.be:8080/Testing1/Testing1/21270
-#EXTINF:-1 tvg-id="cvrnews.in" tvg-name="ENGLISH | CVRNews" tvg-logo="https://i.imgur.com/w8sqF7u.png" group-title="HINDI",ENGLISH | CVRNews
-http://p5.giffy.be:8080/Testing1/Testing1/21271
-#EXTINF:-1 tvg-id="" tvg-name="ENGLISH | GRACE TV" tvg-logo="https://i.imgur.com/zI63uDz.png" group-title="HINDI",ENGLISH | GRACE TV
-http://p5.giffy.be:8080/Testing1/Testing1/21272
-#EXTINF:-1 tvg-id="" tvg-name="ENGLISH | ALJAZEERA" tvg-logo="https://i.imgur.com/Zr7LjR7.png" group-title="HINDI",ENGLISH | ALJAZEERA
-http://p5.giffy.be:8080/Testing1/Testing1/21273
-#EXTINF:-1 tvg-id="bbcworld.in" tvg-name="ENGLISH | BBC WORLD" tvg-logo="https://i.imgur.com/6KRxb0z.png" group-title="HINDI",ENGLISH | BBC WORLD
-http://p5.giffy.be:8080/Testing1/Testing1/21274
-#EXTINF:-1 tvg-id="cnnintl.in" tvg-name="ENGLISH | CNN" tvg-logo="https://i.imgur.com/VIdMzxF.png" group-title="HINDI",ENGLISH | CNN
-http://p5.giffy.be:8080/Testing1/Testing1/21275
-#EXTINF:-1 tvg-id="" tvg-name="ENGLISH | 9XO" tvg-logo="https://i.imgur.com/O1mDzlQ.png" group-title="HINDI",ENGLISH | 9XO
-http://p5.giffy.be:8080/Testing1/Testing1/21276
-#EXTINF:-1 tvg-id="" tvg-name="ENGLISH | RAJYASABHA" tvg-logo="https://i.imgur.com/DAHpuRA.png" group-title="HINDI",ENGLISH | RAJYASABHA
-http://p5.giffy.be:8080/Testing1/Testing1/21277
-#EXTINF:-1 tvg-id="newsx.in" tvg-name="ENGLISH | NEWSX" tvg-logo="https://i.imgur.com/iESabwr.png" group-title="HINDI",ENGLISH | NEWSX
-http://p5.giffy.be:8080/Testing1/Testing1/21278
-#EXTINF:-1 tvg-id="" tvg-name="ENGLISH | AWAKENING" tvg-logo="https://i.imgur.com/KLx1D0U.png" group-title="HINDI",ENGLISH | AWAKENING
-http://p5.giffy.be:8080/Testing1/Testing1/21279
-#EXTINF:-1 tvg-id="" tvg-name="MARATHI | ZEEMARATHI" tvg-logo="" group-title="MARATHI",MARATHI | ZEEMARATHI
-http://p5.giffy.be:8080/Testing1/Testing1/20876
-#EXTINF:-1 tvg-id="" tvg-name="MARATHI | CINEMA" tvg-logo="" group-title="MARATHI",MARATHI | CINEMA
-http://p5.giffy.be:8080/Testing1/Testing1/20877
-#EXTINF:-1 tvg-id="" tvg-name="MARATHI | COLORSMARATHI" tvg-logo="" group-title="MARATHI",MARATHI | COLORSMARATHI
-http://p5.giffy.be:8080/Testing1/Testing1/20878
-#EXTINF:-1 tvg-id="" tvg-name="MARATHI | D2H MARATHI" tvg-logo="" group-title="MARATHI",MARATHI | D2H MARATHI
-http://p5.giffy.be:8080/Testing1/Testing1/20879
-#EXTINF:-1 tvg-id="" tvg-name="MARATHI | ColorsMarathi" tvg-logo="" group-title="MARATHI",MARATHI | ColorsMarathi
-http://p5.giffy.be:8080/Testing1/Testing1/20880
-#EXTINF:-1 tvg-id="" tvg-name="MARATHI | 9XJhakaas" tvg-logo="" group-title="MARATHI",MARATHI | 9XJhakaas
-http://p5.giffy.be:8080/Testing1/Testing1/20881
-#EXTINF:-1 tvg-id="" tvg-name="MARATHI | STARPRAVAH" tvg-logo="" group-title="MARATHI",MARATHI | STARPRAVAH
-http://p5.giffy.be:8080/Testing1/Testing1/20882
-#EXTINF:-1 tvg-id="" tvg-name="MARATHI | ABPMajha" tvg-logo="" group-title="MARATHI",MARATHI | ABPMajha
-http://p5.giffy.be:8080/Testing1/Testing1/20883
-#EXTINF:-1 tvg-id="" tvg-name="MARATHI | TV9" tvg-logo="" group-title="MARATHI",MARATHI | TV9
-http://p5.giffy.be:8080/Testing1/Testing1/20884
-#EXTINF:-1 tvg-id="" tvg-name="MARATHI | MKN" tvg-logo="" group-title="MARATHI",MARATHI | MKN
-http://p5.giffy.be:8080/Testing1/Testing1/20885
-#EXTINF:-1 tvg-id="" tvg-name="MARATHI | FAKTMARATHI" tvg-logo="" group-title="MARATHI",MARATHI | FAKTMARATHI
-http://p5.giffy.be:8080/Testing1/Testing1/20886
-#EXTINF:-1 tvg-id="" tvg-name="MARATHI | TAAS" tvg-logo="" group-title="MARATHI",MARATHI | TAAS
-http://p5.giffy.be:8080/Testing1/Testing1/20887
-#EXTINF:-1 tvg-id="" tvg-name="MARATHI | MAIBOLI" tvg-logo="" group-title="MARATHI",MARATHI | MAIBOLI
-http://p5.giffy.be:8080/Testing1/Testing1/20888
-#EXTINF:-1 tvg-id="" tvg-name="GUJRATI | VTV GUJRATI" tvg-logo="" group-title="GUJRATI ",GUJRATI | VTV GUJRATI
-http://p5.giffy.be:8080/Testing1/Testing1/21000
-#EXTINF:-1 tvg-id="" tvg-name="GUJRATI | TV9" tvg-logo="" group-title="GUJRATI ",GUJRATI | TV9
-http://p5.giffy.be:8080/Testing1/Testing1/21001
-#EXTINF:-1 tvg-id="" tvg-name="GUJRATI | SANDESH NEWS" tvg-logo="" group-title="GUJRATI ",GUJRATI | SANDESH NEWS
-http://p5.giffy.be:8080/Testing1/Testing1/21002
-#EXTINF:-1 tvg-id="" tvg-name="GUJRATI | ABPASMITA" tvg-logo="" group-title="GUJRATI ",GUJRATI | ABPASMITA
-http://p5.giffy.be:8080/Testing1/Testing1/21003
-#EXTINF:-1 tvg-id="" tvg-name="GUJRATI | GSTV" tvg-logo="" group-title="GUJRATI ",GUJRATI | GSTV
-http://p5.giffy.be:8080/Testing1/Testing1/21004
-#EXTINF:-1 tvg-id="" tvg-name="GUJRATI | DDGIRNAR" tvg-logo="" group-title="GUJRATI ",GUJRATI | DDGIRNAR
-http://p5.giffy.be:8080/Testing1/Testing1/21005
-#EXTINF:-1 tvg-id="" tvg-name="GUJRATI | SARALJEEVAN" tvg-logo="" group-title="GUJRATI ",GUJRATI | SARALJEEVAN
-http://p5.giffy.be:8080/Testing1/Testing1/21006
-#EXTINF:-1 tvg-id="" tvg-name="GUJRATI | INDIANEWS GUJRAT" tvg-logo="" group-title="GUJRATI ",GUJRATI | INDIANEWS GUJRAT
-http://p5.giffy.be:8080/Testing1/Testing1/21007
+#EXTINF:-1, SONY SIX HD
+https://botallen.live/t/35/master.m3u8?signature=287fc089990efe827ffa3ac945ff94a67e4195a4&unique=d2044828ae86b7dcc388bf4b21325485
+
+#EXTINF:-1,SHEMAROO TV
+https://cdn.live.shemaroome.com:443/shemarootv/selshemarootv_1_701/chunklist.m3u8
+
+#EXTINF:-1, Epic tv
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
+#EXTINF:-1, ZEE TV HD
+https://botallen.live/t/63/master.m3u8?signature=3ec1643e13076b4e11a13c2c500e51699bca9c6c&unique=d2044828ae86b7dcc388bf4b21325485
+
+#EXTINF:-1, STAR PLUS HD 
+https://botallen.live/t/8/master.m3u8?signature=9d57d82559f3228d611a6098168c0e7dc1602f7f&unique=d2044828ae86b7dcc388bf4b21325485
+
+#EXTINF:-1, STAR BHARAT HD 
+https://botallen.live/t/244/master.m3u8?signature=5dbcfd3bcc8fe1556ff0f3a140424ded1ba7590e&unique=d2044828ae86b7dcc388bf4b21325485
+
+#EXTINF:-1, COLORS HD TS
+https://botallen.live/t/52/master.m3u8?signature=96029b9b233b57728e7aa21517b7fa3f04c52cb4&unique=d2044828ae86b7dcc388bf4b21325485
+
+#EXTINF:-1, SONY HD 
+https://botallen.live/t/15/master.m3u8?signature=56a4129af6c581f4f191bbd3304627321170ce89&unique=d2044828ae86b7dcc388bf4b21325485
+
+#EXTINF:-1,Big magic 
+http://cv.khushitv.xyz/channels.php?c=bigmagic&e=.m3u8
+
+#EXTINF:-1,ZEE ANMOL 
+http://cv.khushitv.xyz/channels.php?c=zeeanmol&e=.m3u8
+
+#EXTINF:-1,&TV 
+http://cv.khushitv.xyz/channels.php?c=andtvhd&e=.m3u8
+
+#EXTINF:-1,&TV HD
+https://botallen.live/t/40/master.m3u8?signature=f584f624f2fcb2701404b07f3147bb4abc345d63&unique=d2044828ae86b7dcc388bf4b21325485
+
+#EXTINF:-1,SAB HD 
+https://botallen.live/t/48/master.m3u8?signature=9784ad8bc7cfea0b3cbeedba5e672eb8cafa330f&unique=d2044828ae86b7dcc388bf4b21325485
+
+#EXTINF:-1,&pictures HD 
+https://botallen.live/t/267/master.m3u8?signature=23dd1540f1b04573d16648114b2beea8c3d6c4fc&unique=d2044828ae86b7dcc388bf4b21325485
+
+#EXTINF:-1,&pictures HD 
+http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
+
+#EXTINF:-1,CINEPLEX HD
+https://botallen.live/t/61/master.m3u8?signature=dfb9ddf542c787e4786ca9c72a023115aef94008&unique=d2044828ae86b7dcc388bf4b21325485
+
+#EXTINF:-1,&pictures HD Z
+http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/playlist.m3u8
+
+
+#EXTINF:-1,Zee Bollywood 
+http://cv.khushitv.xyz/channels.php?c=classic&e=.m3u8
+
+
+#EXTINF:-1,Zee Action 
+http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
+
+#EXTINF:-1,Zee Classic
+http://cv.khushitv.xyz/channels.php?c=out/v1/74df8b02f8ab47909df9a9f3189a1012&e=index_6.m3u8
+
+
+#EXTINF:-1,ZEE ANMOL CINEMA
+http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
+
+
+#EXTINF:-1,ZEE cinema HD TS
+https://botallen.live/t/503/master.m3u8?signature=3876d25174b3499dcb877a5165b45f0379f4db3c&unique=d2044828ae86b7dcc388bf4b21325485
+
+#EXTINF:-1,ZEE cinema HD 2
+http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1,ZEE CINEMA HD
+http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
+
+
+#EXTINF:-1,SET MAX HD 
+https://botallen.live/t/80/master.m3u8?signature=c3844217b3f9e748024a4b9bde5baab202103e8f&unique=d2044828ae86b7dcc388bf4b21325485
+
+
+#EXTINF:-1, Sony MAX2 
+https://botallen.live/t/120/master.m3u8?signature=7fd2df6e6bc50698024507db0595e9e2c400a76b&unique=d2044828ae86b7dcc388bf4b21325485
+
+#EXTINF:-1, STAR GOLD HD TS
+https://botallen.live/t/632/master.m3u8?signature=969ff005ad4007574d7f8b0ed046076e54c4fcc8&unique=d2044828ae86b7dcc388bf4b21325485
 
 
 
+#EXTINF:-1, GEM BOLLYWOOD
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
 
 
+#EXTINF:-1,Shemaroo BOLLYWOOD PREMIER 
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
 
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US | HBO 2" tvg-logo="https://i.imgur.com/eaIDRB5.png" group-title="PREMIUM MOVIES ",US | HBO 2
-http://p5.giffy.be:8080/Testing1/Testing1/52599
-#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US | HBO COMEDY" tvg-logo="https://i.imgur.com/iRjRt2H.png" group-title="PREMIUM MOVIES ",US | HBO COMEDY
-http://p5.giffy.be:8080/Testing1/Testing1/52600
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="US | HBO EAST" tvg-logo="https://i.imgur.com/7HiIXFP.png" group-title="PREMIUM MOVIES ",US | HBO EAST
-http://p5.giffy.be:8080/Testing1/Testing1/52601
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US | HBO FAMILY" tvg-logo="https://i.imgur.com/mC3j0Ci.png" group-title="PREMIUM MOVIES ",US | HBO FAMILY
-http://p5.giffy.be:8080/Testing1/Testing1/52602
-#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US | HBO ZONE" tvg-logo="https://i.imgur.com/XOKCISn.png" group-title="PREMIUM MOVIES ",US | HBO ZONE
-http://p5.giffy.be:8080/Testing1/Testing1/52603
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="US | SHOWTIME" tvg-logo="https://i.imgur.com/Bsb5x3F.png" group-title="PREMIUM MOVIES ",US | SHOWTIME
-http://p5.giffy.be:8080/Testing1/Testing1/52604
-#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US | SHOWTIME EXTREME" tvg-logo="https://i.imgur.com/JWOrYkl.png" group-title="PREMIUM MOVIES ",US | SHOWTIME EXTREME
-http://p5.giffy.be:8080/Testing1/Testing1/52605
-#EXTINF:-1 tvg-id="rshowtimefamilyzone.us" tvg-name="US | SHOWTIME FAMILY ZONE" tvg-logo="https://i.imgur.com/KI5vJmd.png" group-title="PREMIUM MOVIES ",US | SHOWTIME FAMILY ZONE
-http://p5.giffy.be:8080/Testing1/Testing1/52606
-#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="US | SHOWTIME SHOWCASE" tvg-logo="https://i.imgur.com/QSFe29e.png" group-title="PREMIUM MOVIES ",US | SHOWTIME SHOWCASE
-http://p5.giffy.be:8080/Testing1/Testing1/52607
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="US | SHOWTIME WEST" tvg-logo="https://i.imgur.com/zcXc43s.png" group-title="PREMIUM MOVIES ",US | SHOWTIME WEST
-http://p5.giffy.be:8080/Testing1/Testing1/52608
+#EXTINF:-1,Shemaroo BOLLYWOOD CLASSIC
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/playlist_cf.m3u8
+
+#EXTINF:-1, CLASSIC BOLLYWOOD
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+
+#EXTINF:-1, Manoranjan Movies
+http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
+
+#EXTINF:-1, B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
+#EXTINF:-1, Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
+#EXTINF:-1, Filmy
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_480p/index.m3u8
+
+#EXTINF:-1, Box Cinema
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
+
+#EXTINF:-1, Housefull Movies
+https://m-c04-j2apps.s.llnwi.net/hls/7000.HousefullMovie.in_480p/index.m3u8
+
+#EXTINF:-1, Bollywood.in
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
+
+#EXTINF:-1, Movieplus
+https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
+
+#EXTINF:-1, Hindi Movies
+http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
+
+#EXTINF:-1, WOW CINEMA
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
+
+#EXTINF:-1, ABZY Dhakad 
+https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in_480p/index.m3u8
+
+#EXTINF:-1, ABZY Cool
+https://m-c03-j2apps.s.llnwi.net/hls/6640.SkystarMusic.in_480p/index.m3u8
+
+#EXTINF:-1, ABZY Movies
+https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in_480p/index.m3u8
+
+#EXTINF:-1, Mahamovie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="IL | HOT 3 FHD" tvg-logo="" group-title="ISRAEL",IL | HOT 3 FHD
-http://p5.giffy.be:8080/Testing1/Testing1/63593
-#EXTINF:-1 tvg-id="" tvg-name="IL | HOT CINEMA 2 HD" tvg-logo="" group-title="ISRAEL",IL | HOT CINEMA 2 HD
-http://p5.giffy.be:8080/Testing1/Testing1/63594
-#EXTINF:-1 tvg-id="" tvg-name="IL | HOT BOLLYWOOD HD" tvg-logo="" group-title="ISRAEL",IL | HOT BOLLYWOOD HD
-http://p5.giffy.be:8080/Testing1/Testing1/63595
-#EXTINF:-1 tvg-id="" tvg-name="IL | HOT BOMBAY HD" tvg-logo="" group-title="ISRAEL",IL | HOT BOMBAY HD
-http://p5.giffy.be:8080/Testing1/Testing1/63596
-#EXTINF:-1 tvg-id="" tvg-name="IL | HOT CHANNEL 8 HD" tvg-logo="" group-title="ISRAEL",IL | HOT CHANNEL 8 HD
-http://p5.giffy.be:8080/Testing1/Testing1/63597
-#EXTINF:-1 tvg-id="" tvg-name="IL | HOT COMEDY CENTRAL HD" tvg-logo="" group-title="ISRAEL",IL | HOT COMEDY CENTRAL HD
-http://p5.giffy.be:8080/Testing1/Testing1/63598
-#EXTINF:-1 tvg-id="" tvg-name="IL | HOT CINEMA 4 HD" tvg-logo="" group-title="ISRAEL",IL | HOT CINEMA 4 HD
-http://p5.giffy.be:8080/Testing1/Testing1/63599
-#EXTINF:-1 tvg-id="" tvg-name="IL | HOT ENTERTAINMENT HD" tvg-logo="" group-title="ISRAEL",IL | HOT ENTERTAINMENT HD
-http://p5.giffy.be:8080/Testing1/Testing1/63600
-#EXTINF:-1 tvg-id="" tvg-name="IL | HOT FUN TV HD" tvg-logo="" group-title="ISRAEL",IL | HOT FUN TV HD
-http://p5.giffy.be:8080/Testing1/Testing1/63601
-#EXTINF:-1 tvg-id="" tvg-name="IL | HOT GOLD HD" tvg-logo="" group-title="ISRAEL",IL | HOT GOLD HD
-http://p5.giffy.be:8080/Testing1/Testing1/63602
-#EXTINF:-1 tvg-id="" tvg-name="IL | HOT HBO HD" tvg-logo="" group-title="ISRAEL",IL | HOT HBO HD
-http://p5.giffy.be:8080/Testing1/Testing1/63603
-#EXTINF:-1 tvg-id="" tvg-name="IL | HOT HOP" tvg-logo="" group-title="ISRAEL",IL | HOT HOP
-http://p5.giffy.be:8080/Testing1/Testing1/63604
-#EXTINF:-1 tvg-id="" tvg-name="UK-S | BT SPORTS 1" tvg-logo="https://i.imgur.com/24XNWZW.png" group-title="SPORTS HD",UK-S | BT SPORTS 1
-http://p5.giffy.be:8080/Testing1/Testing1/64285
-#EXTINF:-1 tvg-id="" tvg-name="UK-S | BT SPORTS 2" tvg-logo="https://i.imgur.com/BvpcFV4.png" group-title="SPORTS HD",UK-S | BT SPORTS 2
-http://p5.giffy.be:8080/Testing1/Testing1/64286
-#EXTINF:-1 tvg-id="" tvg-name="UK-S | BT SPORTS ESPN" tvg-logo="https://i.imgur.com/G02SRLD.jpg" group-title="SPORTS HD",UK-S | BT SPORTS ESPN
-http://p5.giffy.be:8080/Testing1/Testing1/64287
-#EXTINF:-1 tvg-id="" tvg-name="UK-S | SKY SPORTS ACTION" tvg-logo="https://i.imgur.com/NHEi6n2.png" group-title="SPORTS HD",UK-S | SKY SPORTS ACTION
-http://p5.giffy.be:8080/Testing1/Testing1/64288
-#EXTINF:-1 tvg-id="" tvg-name="UK-S | SKY SPORTS ACTION FHD" tvg-logo="https://i.imgur.com/NHEi6n2.png" group-title="SPORTS HD",UK-S | SKY SPORTS ACTION FHD
-http://p5.giffy.be:8080/Testing1/Testing1/64289
-#EXTINF:-1 tvg-id="" tvg-name="UK-S | SKY SPORTS ARENA" tvg-logo="https://i.imgur.com/5Uw9L3K.png" group-title="SPORTS HD",UK-S | SKY SPORTS ARENA
-http://p5.giffy.be:8080/Testing1/Testing1/64290
-#EXTINF:-1 tvg-id="" tvg-name="UK-S | SKY SPORTS ARENA FHD" tvg-logo="https://i.imgur.com/5Uw9L3K.png" group-title="SPORTS HD",UK-S | SKY SPORTS ARENA FHD
-http://p5.giffy.be:8080/Testing1/Testing1/64291
-#EXTINF:-1 tvg-id="" tvg-name="UK-S | SKY SPORTS CRICKET FHD" tvg-logo="https://i.imgur.com/6C1VvBm.png" group-title="SPORTS HD",UK-S | SKY SPORTS CRICKET FHD
-http://p5.giffy.be:8080/Testing1/Testing1/64292
-#EXTINF:-1 tvg-id="" tvg-name="UK-S | SKY SPORTS F1" tvg-logo="https://i.imgur.com/RKICUoz.jpg" group-title="SPORTS HD",UK-S | SKY SPORTS F1
-http://p5.giffy.be:8080/Testing1/Testing1/64293
-#EXTINF:-1 tvg-id="" tvg-name="UK-S | SKY SPORTS FOOTBALL" tvg-logo="https://i.imgur.com/sFcZ2SH.jpg" group-title="SPORTS HD",UK-S | SKY SPORTS FOOTBALL
-http://p5.giffy.be:8080/Testing1/Testing1/64294
-#EXTINF:-1 tvg-id="" tvg-name="US-S | FS1" tvg-logo="http://heatv.net/logo/foxsports1.png" group-title="SPORTS HD",US-S | FS1
-http://p5.giffy.be:8080/Testing1/Testing1/63696
-#EXTINF:-1 tvg-id="" tvg-name="US-S | FS2" tvg-logo="http://heatv.net/logo/foxsports2.png" group-title="SPORTS HD",US-S | FS2
-http://p5.giffy.be:8080/Testing1/Testing1/63697
-#EXTINF:-1 tvg-id="espn.us" tvg-name="US-S | ESPN" tvg-logo="https://i.imgur.com/CSIIAuc.png" group-title="SPORTS HD",US-S | ESPN
-http://p5.giffy.be:8080/Testing1/Testing1/11579
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="US-S | ESPN 2" tvg-logo="https://i.imgur.com/adHhBw7.png" group-title="SPORTS HD",US-S | ESPN 2
-http://p5.giffy.be:8080/Testing1/Testing1/11580
-#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US-S | ESPN NEWS" tvg-logo="https://i.imgur.com/O16xt1b.png" group-title="SPORTS HD",US-S | ESPN NEWS
-http://p5.giffy.be:8080/Testing1/Testing1/11581
+#EXTINF:-1, JOO MUSIC
+https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US-S | FOX SPORTS 1 " tvg-logo="https://i.imgur.com/AeJl9Ks.png" group-title="SPORTS HD",US-S | FOX SPORTS 1 
-http://p5.giffy.be:8080/Testing1/Testing1/11584
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US-S | FOX SPORTS 2 " tvg-logo="https://i.imgur.com/oFZoWbf.png" group-title="SPORTS HD",US-S | FOX SPORTS 2 
-http://p5.giffy.be:8080/Testing1/Testing1/11585
-
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN H264/1080p 1" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN H264/1080p 1
-http://p5.giffy.be:8080/Testing1/Testing1/64098
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 1 HEVC" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 1 HEVC
-http://p5.giffy.be:8080/Testing1/Testing1/64099
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 1 FHD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 1 FHD
-http://p5.giffy.be:8080/Testing1/Testing1/64100
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 2 HEVC" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 2 HEVC
-http://p5.giffy.be:8080/Testing1/Testing1/64101
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 2 FHD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 2 FHD
-http://p5.giffy.be:8080/Testing1/Testing1/64102
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 3 HEVC" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 3 HEVC
-http://p5.giffy.be:8080/Testing1/Testing1/64103
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 3 FHD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 3 FHD
-http://p5.giffy.be:8080/Testing1/Testing1/64104
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 4 HEVC" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 4 HEVC
-http://p5.giffy.be:8080/Testing1/Testing1/64105
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 4 FHD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 4 FHD
-http://p5.giffy.be:8080/Testing1/Testing1/64106
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 5 HEVC" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 5 HEVC
-http://p5.giffy.be:8080/Testing1/Testing1/64107
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 5 FHD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 5 FHD
-http://p5.giffy.be:8080/Testing1/Testing1/64108
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 6 HEVC" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 6 HEVC
-http://p5.giffy.be:8080/Testing1/Testing1/64109
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 6 FHD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 6 FHD
-http://p5.giffy.be:8080/Testing1/Testing1/64110
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 7 HEVC" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 7 HEVC
-http://p5.giffy.be:8080/Testing1/Testing1/64111
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 7 FHD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 7 FHD
-http://p5.giffy.be:8080/Testing1/Testing1/64112
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 8 HEVC" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 8 HEVC
-http://p5.giffy.be:8080/Testing1/Testing1/64113
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 8 FHD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 8 FHD
-http://p5.giffy.be:8080/Testing1/Testing1/64114
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 9 HEVC" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 9 HEVC
-http://p5.giffy.be:8080/Testing1/Testing1/64115
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 9 FHD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 9 FHD
-http://p5.giffy.be:8080/Testing1/Testing1/64116
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 10 HEVC" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 10 HEVC
-http://p5.giffy.be:8080/Testing1/Testing1/64117
-#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 10 FHD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 10 FHD
-http://p5.giffy.be:8080/Testing1/Testing1/64118
-
-#EXTINF:-1 tvg-id="AapkaColorsUS.us" tvg-name="HINDI | AAPKA COLORS (US)" tvg-logo="https://i.imgur.com/1K0CqwH.png" group-title="HINDI",HINDI | AAPKA COLORS (US)
-http://p5.giffy.be:8080/Testing1/Testing1/12686
-#EXTINF:-1 tvg-id="SABUSA.us" tvg-name="HINDI | SAB TV (US)" tvg-logo="https://i.imgur.com/3SR69v2.png" group-title="HINDI",HINDI | SAB TV (US)
-http://p5.giffy.be:8080/Testing1/Testing1/12687
-#EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="HINDI | PTC PUNJABI (US)" tvg-logo="https://i.imgur.com/6WIBDEB.png" group-title="HINDI",HINDI | PTC PUNJABI (US)
-http://p5.giffy.be:8080/Testing1/Testing1/12688
-#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="HINDI | WIllOW(US)" tvg-logo="https://i.imgur.com/UwQ3THC.png" group-title="HINDI",HINDI | WIllOW(US)
-http://p5.giffy.be:8080/Testing1/Testing1/12689
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="HINDI | SONY (US )" tvg-logo="https://i.imgur.com/3r5Eh0L.png" group-title="HINDI",HINDI | SONY (US )
-http://p5.giffy.be:8080/Testing1/Testing1/12690
-#EXTINF:-1 tvg-id="zeetv.in" tvg-name="HINDI | ZEE TV (US)" tvg-logo="https://i.imgur.com/2Fq60Bx.png" group-title="HINDI",HINDI | ZEE TV (US)
-http://p5.giffy.be:8080/Testing1/Testing1/12691
+#EXTINF:-1, ANJAN TV
+https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in_480p/index.m3u8
 
 
 
@@ -702,83 +158,225 @@ http://p5.giffy.be:8080/Testing1/Testing1/12691
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LAT | HBO EAST (501)" tvg-logo="https://i.imgur.com/7HiIXFP.png" group-title="PELÍCULAS PREMIUM",LAT | HBO EAST (501)
-http://p5.giffy.be:8080/Testing1/Testing1/11462
-#EXTINF:-1 tvg-id="" tvg-name="LAT | HBO WEST(504)" tvg-logo="https://i.imgur.com/7HiIXFP.png" group-title="PELÍCULAS PREMIUM",LAT | HBO WEST(504)
-http://p5.giffy.be:8080/Testing1/Testing1/11463
-#EXTINF:-1 tvg-id="" tvg-name="LAT | HBO2 EAST(502)" tvg-logo="https://i.imgur.com/YRMf7FE.png" group-title="PELÍCULAS PREMIUM",LAT | HBO2 EAST(502)
-http://p5.giffy.be:8080/Testing1/Testing1/11464
-#EXTINF:-1 tvg-id="" tvg-name="LAT | HBO2 WEST(505)" tvg-logo="https://i.imgur.com/M5U2Qhr.png" group-title="PELÍCULAS PREMIUM",LAT | HBO2 WEST(505)
-http://p5.giffy.be:8080/Testing1/Testing1/11465
-#EXTINF:-1 tvg-id="" tvg-name="LAT | HBO COMEDY(506)" tvg-logo="https://i.imgur.com/iRjRt2H.png" group-title="PELÍCULAS PREMIUM",LAT | HBO COMEDY(506)
-http://p5.giffy.be:8080/Testing1/Testing1/11466
-#EXTINF:-1 tvg-id="" tvg-name="LAT | HBO FAMILY EAST (507)" tvg-logo="https://i.imgur.com/mC3j0Ci.png" group-title="PELÍCULAS PREMIUM",LAT | HBO FAMILY EAST (507)
-http://p5.giffy.be:8080/Testing1/Testing1/11467
-#EXTINF:-1 tvg-id="" tvg-name="LAT | HBO FAMILY WEST(508)" tvg-logo="https://i.imgur.com/mC3j0Ci.png" group-title="PELÍCULAS PREMIUM",LAT | HBO FAMILY WEST(508)
-http://p5.giffy.be:8080/Testing1/Testing1/11468
-#EXTINF:-1 tvg-id="" tvg-name="LAT | HBO LATINO (511)" tvg-logo="https://i.imgur.com/7HiIXFP.png" group-title="PELÍCULAS PREMIUM",LAT | HBO LATINO (511)
-http://p5.giffy.be:8080/Testing1/Testing1/11469
-#EXTINF:-1 tvg-id="" tvg-name="LAT | HBO SIGNATURE(503)" tvg-logo="https://i.imgur.com/kqaQYNT.png" group-title="PELÍCULAS PREMIUM",LAT | HBO SIGNATURE(503)
-http://p5.giffy.be:8080/Testing1/Testing1/11470
-#EXTINF:-1 tvg-id="" tvg-name="LAT | HBO ZONE(509)" tvg-logo="https://i.imgur.com/XOKCISn.png" group-title="PELÍCULAS PREMIUM",LAT | HBO ZONE(509)
-http://p5.giffy.be:8080/Testing1/Testing1/11471
-
-#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="US. | CNBC WORLD" tvg-logo="https://i.imgur.com/60pd0ub.png" group-title="USA HD",US. | CNBC WORLD
-http://p5.giffy.be:8080/Testing1/Testing1/11662
-#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="US. | BBC AMERICA" tvg-logo="https://i.imgur.com/k2LCcSy.png" group-title="USA HD",US. | BBC AMERICA
-http://p5.giffy.be:8080/Testing1/Testing1/11650
-
-
-#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="US. | ANIMAL PLANET" tvg-logo="https://i.imgur.com/xeb4Kem.png" group-title="USA HD",US. | ANIMAL PLANET
-http://p5.giffy.be:8080/Testing1/Testing1/11649
-
-
-#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="US | BLOOMBERG" tvg-logo="https://i.imgur.com/etTRjyY.png" group-title="USA HD",US | BLOOMBERG
-http://p5.giffy.be:8080/Testing1/Testing1/11655
-#EXTINF:-1 tvg-id="boomerang.us" tvg-name="US. | BOOMERANG" tvg-logo="https://i.imgur.com/oB9pDzD.png" group-title="USA HD",US. | BOOMERANG
-http://p5.giffy.be:8080/Testing1/Testing1/11656
-
-#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="US | CARTOON NETWORK" tvg-logo="https://i.imgur.com/eBRGPCo.png" group-title="USA HD",US | CARTOON NETWORK
-http://p5.giffy.be:8080/Testing1/Testing1/11666
-
-
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="US. | COMEDY CENTRAL" tvg-logo="https://i.imgur.com/GG3uOct.png" group-title="USA HD",US. | COMEDY CENTRAL
-http://p5.giffy.be:8080/Testing1/Testing1/11674
-
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US. | DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/NuwF8zb.png" group-title="USA HD",US. | DISCOVERY CHANNEL
-http://p5.giffy.be:8080/Testing1/Testing1/11681
-
-#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="US. | DISCOVERY SCIENCE" tvg-logo="https://i.imgur.com/9gZ91p4.png" group-title="USA HD",US. | DISCOVERY SCIENCE
-http://p5.giffy.be:8080/Testing1/Testing1/11684
-#EXTINF:-1 tvg-id="TheDisneyChannelEast.us" tvg-name="US | DISNEY CHANNEL" tvg-logo="https://i.imgur.com/qStRvYt.png" group-title="KIDS HD",US | DISNEY CHANNEL
-http://p5.giffy.be:8080/Testing1/Testing1/11685
-#EXTINF:-1 tvg-id="DisneyJuniorSDEast.us" tvg-name="US | DISNEY JR" tvg-logo="https://i.imgur.com/dDAwvBm.png" group-title="KIDS HD",US | DISNEY JR
-http://p5.giffy.be:8080/Testing1/Testing1/11686
-#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-name="US | DISNEY XD" tvg-logo="https://i.imgur.com/T7ODj4Z.png" group-title="KIDS HD",US | DISNEY XD
-http://p5.giffy.be:8080/Testing1/Testing1/11687
-
-
-
-#EXTINF:-1 tvg-id="historychannel.us" tvg-name="US. | HISTORY CHANNEL" tvg-logo="https://i.imgur.com/zG2V0fK.png" group-title="USA HD",US. | HISTORY CHANNEL
-http://p5.giffy.be:8080/Testing1/Testing1/11716
-
-#EXTINF:-1 tvg-id="mtv.us" tvg-name="US. | MTV" tvg-logo="https://i.imgur.com/S4pkkdR.png" group-title="USA HD",US. | MTV
-http://p5.giffy.be:8080/Testing1/Testing1/11726
-
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US. | NAT GEO WILD" tvg-logo="https://i.imgur.com/LNR3x1l.png" group-title="USA HD",US. | NAT GEO WILD
-http://p5.giffy.be:8080/Testing1/Testing1/11732
-#EXTINF:-1 tvg-id="natgeo.us" tvg-name="US. | NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="https://i.imgur.com/zJ65b4a.png" group-title="USA HD",US. | NATIONAL GEOGRAPHIC CHANNEL
-http://p5.giffy.be:8080/Testing1/Testing1/11733
-#EXTINF:-1 tvg-id="NickJr.us" tvg-name="US | NICK JR" tvg-logo="https://i.imgur.com/wCgiRwr.png" group-title="KIDS HD",US | NICK JR
-http://p5.giffy.be:8080/Testing1/Testing1/11734
-#EXTINF:-1 tvg-id="NickelodeonHDTVEast.us" tvg-name="US | NICKELODEON" tvg-logo="https://i.imgur.com/HyWiH2N.png" group-title="KIDS HD",US | NICKELODEON
-http://p5.giffy.be:8080/Testing1/Testing1/11735
 
 
 
 
-#EXTINF:-1 tvg-id="vh1.us" tvg-name="US. | VH1" tvg-logo="https://i.imgur.com/kvEE4Rz.png" group-title="USA HD",US. | VH1
-http://p5.giffy.be:8080/Testing1/Testing1/11775
+#EXTINF:-1,AAJTAK HD
+http://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
+#EXTINF:-1,AAJTAK HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1,ABP NEWS HD
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+#EXTINF:-1, TV9 Bharatvarsh
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
+#EXTINF:-1,AAJTAK 
+https://feeds.intoday.in/aajtak/api/master.m3u8
+#EXTINF:-1,SAHARA SAMAY
+https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in_480p/index.m3u8
+#EXTINF:-1,Republic Bharat-1
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/republicbharat/republicbharat.isml/republicbharat-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1,Republic Bharat-2
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1581100145~exp=1581103145~acl=/*~hmac=cac2baa47ca75f31f770cf160ceab80d71868569e1068731569968afbfcd624d
+#EXTINF:-1,Zee business 
+http://cv.khushitv.xyz/channels.php?c=zeebusiness&e=.m3u8
+
+#EXTINF:-1,Zee News 
+http://cv.khushitv.xyz/channels.php?c=zeenews&e=.m3u8
+#EXTINF:-1,Zee HINDUSTAN
+http://cv.khushitv.xyz/channels.php?c=hindustan&e=.m3u8
+#EXTINF:-1,Zee Rajasthan
+http://cv.khushitv.xyz/channels.php?c=rajasthan&e=.m3u8
+#EXTINF:-1,ABP GANGA
+https://m-c02-j2apps.s.llnwi.net/hls/7017.ABPGanga.in_480p/index.m3u8
+
+#EXTINF:-1,FIRST INDIA RAJASTHAN
+https://m-c03-j2apps.s.llnwi.net/hls/1872.FirstIndiaNewsRajasthan.in_480p/index.m3u8
+
+#EXTINF:-1,News18 Rajasthan
+https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_5_av-p.m3u8
+#EXTINF:-1,Zee MP-CG
+http://cv.khushitv.xyz/channels.php?c==newsmpcg&e=.m3u8
+#EXTINF:-1, ABP NEWS
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in.m3u8
+#EXTINF:-1, Amar Ujala 
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1, Janta Tv
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+
+#EXTINF:-1, Surya samachar
+https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in_480p/index.m3u8
+
+
+#EXTINF:-1,News18 Gujarati
+https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_5_av-p.m3u8
+#EXTINF:-1, ABP ASMITA 
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8
+#EXTINF:-1,VTV live
+https://cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/chunklist_w1694613322.m3u8
+#EXTINF:-1, 	News 24
+https://m-c29-j2apps.s.llnwi.net/hls/0344.News24.in_480p/index.m3u8
+#EXTINF:-1, 	News 24-
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+
+#EXTINF:-1, 	News NATION 
+https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
+#EXTINF:-1, 	NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
+
+
+#EXTINF:-1, India Tv MX
+https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8
+#EXTINF:-1 , Lok Sabha
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, DD News
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, DD Kisan
+https://playhls.media.nic.in/live/ddkisan/index.m3u8
+#EXTINF:-1, Rajyasabha
+https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, ABP MAJHA 
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
+#EXTINF:-1, Sudarshan News
+http://sudarshan.live/hls/sudarshannews/index.m3u8?_=1582988583335
+
+
+
+
+
+
+
+#EXTINF:-1, 	NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@3.m3u8
+#EXTINF:-1, CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1607524491~acl=%2f*~data=hdntl~hmac=4e7fe647a8652f11c701d609b5502b5c49f9784a717841768cc1c87d4363e40b
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, 	ET Now
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,AL-JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1, 	NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+#EXTINF:-1 ,Bloomberg Quint
+https://d11s4g6fjkwvel.cloudfront.net/out/v1/6008c8c2598e47c197d5473f184669a8/bquint_6.m3u8
+#EXTINF:-1 ,CNBC TV 18 D
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1,CNN News 18 
+https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
+#EXTINF:-1,CNN News 18
+https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
+
+
+#EXTINF:-1,Bloomberg Quint
+http://cv.khushitv.xyz/channels.php?c=bquint&e=.m3u8
+#EXTINF:-1,India Today
+https://vidcdn.vidgyor.com/it-origin/live1/playlist.m3u8
+#EXTINF:-1 ,Et Now
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+#EXTINF:-1 ,Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1 ,Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:-1 ,NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@5.m3u8
+#EXTINF:-1 ,NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@5.m3u8
+#EXTINF:-1, TIMES NOW
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+
+
+
+
+
+#EXTINF:-1,9XM MX
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
+#EXTINF:-1,9XM-2
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1,MTV BEATS HD
+https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
+#EXTINF:-1, B4U Music
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+#EXTINF:-1,ZING 
+http://cv.khushitv.xyz/channels.php?c=zing&e=.m3u8
+#EXTINF:-1, E24
+https://m-c29-j2apps.s.llnwi.net/hls/0389.E24.in_360p/index.m3u8
+#EXTINF:-1,ZOOM
+https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,MUSIC INDIA
+http://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#EXTINF:-1,Zee ETC 
+http://cv.khushitv.xyz/channels.php?c=etc&e=.m3u8
+#EXTINF:-1,Dil Se
+https://live.hungama.com/linear/dil-se/chunklist_b828000.m3u8
+#EXTINF:-1,Kadak Hits
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+
+
+
+#EXTINF:-1,Discovery Kids
+https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
+
+
+
+#EXTINF:-1,non stop movies
+http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
+#EXTINF: -1,Zee Action
+http://z5amshls.akamaized.net/action/tracks-v2a1/playlist.m3u8
+#EXTINF: -1,Zee BOLLYWOOD
+https://z5amshls.akamaized.net/classic/tracks-v3a1/index.m3u8
+#EXTINF:-17,  ZEE CINEMA USA z5
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, Dish POSITIVE
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/corona/corona.isml/index.m3u8?hdnts=st=1586268190~exp=1586271190~acl=/*~hmac=902f48dc1950d9be1a15e04dc8ed2e4c5a03259adf993575ab1904737474b429
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0, 	Satsang
+https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
+#EXTINF:0, 	Sadhna
+http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
+#EXTINF:0, 	Shraddha
+http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
+#EXTINF:0 "Live Darshan", Shirdi Live
+https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
+#EXTINF:0, SANSKAR
+https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
+#EXTINF:0, Bhakti SagarE24
+http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
